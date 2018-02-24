@@ -1,0 +1,446 @@
+2017-11-23 15:10:27.983 [14444] LOG_ALARM -----------------  log4z thread started!   ---------------------------- log4z.cpp:1924
+2017-11-23 15:10:27.988 [14444] LOG_ALARM logger id=0 key=Main name=Main path=./log/ level=0 display=true log4z.cpp:1934
+2017-11-23 15:10:27.988 [12760] LOG_TRACE stream input *** LOGT LOGT LOGT LOGT ***  cctdlg.cpp:80
+2017-11-23 15:10:27.989 [12760] LOG_DEBUG stream input *** LOGD LOGD LOGD LOGD ***  cctdlg.cpp:81
+2017-11-23 15:10:27.989 [12760] LOG_INFO stream input *** LOGI LOGI LOGI LOGI ***  cctdlg.cpp:82
+2017-11-23 15:10:27.989 [12760] LOG_WARN stream input *** LOGW LOGW LOGW LOGW ***  cctdlg.cpp:83
+2017-11-23 15:10:27.989 [12760] LOG_ERROR stream input *** LOGE LOGE LOGE LOGE ***  cctdlg.cpp:84
+2017-11-23 15:10:27.989 [12760] LOG_ALARM stream input *** LOGA LOGA LOGA LOGA ***  cctdlg.cpp:85
+2017-11-23 15:10:27.989 [12760] LOG_FATAL stream input *** LOGF LOGF LOGF LOGF ***  cctdlg.cpp:86
+2017-11-23 15:10:27.989 [12760] LOG_TRACE format input *** LOGFMTT *** 123456 *** cctdlg.cpp:87
+2017-11-23 15:10:27.989 [12760] LOG_DEBUG format input *** LOGFMTD *** 123456 *** cctdlg.cpp:88
+2017-11-23 15:10:27.989 [12760] LOG_INFO format input *** LOGFMTI *** 123456 *** cctdlg.cpp:89
+2017-11-23 15:10:27.989 [12760] LOG_WARN format input *** LOGFMTW *** 123456 *** cctdlg.cpp:90
+2017-11-23 15:10:27.989 [12760] LOG_ERROR format input *** LOGFMTE *** 123456 *** cctdlg.cpp:91
+2017-11-23 15:10:27.989 [12760] LOG_ALARM format input *** LOGFMTA *** 123456 *** cctdlg.cpp:92
+2017-11-23 15:10:27.989 [12760] LOG_FATAL format input *** LOGFMTF *** 123456 *** cctdlg.cpp:93
+2017-11-23 15:10:27.989 [12760] LOG_ALARM main quit ... cctdlg.cpp:95
+2017-11-23 15:10:28.129 [12760] LOG_TRACE CCCTDlg::udp_client_init cctdlg.cpp:611
+2017-11-23 15:10:28.129 [5912] LOG_TRACE call_dev_mon_thread 
+ devmon.cpp:6
+2017-11-23 15:10:28.129 [5912] LOG_TRACE CDevMon::dev_mon_thread start
+ devmon.cpp:29
+2017-11-23 15:10:28.257 [12760] LOG_TRACE m_s32_volume=50 cctdlg.cpp:1177
+2017-11-23 15:10:32.187 [12760] LOG_TRACE m_s32_volume=50 cctdlg.cpp:1177
+2017-11-23 15:10:37.741 [12760] LOG_TRACE CCCTDlg::stopRecord cctdlg.cpp:583
+2017-11-23 15:10:37.779 [12760] LOG_INFO wav in close err:5 cctdlg.cpp:593
+2017-11-23 15:10:41.386 [12760] LOG_TRACE CCCTDlg::OnBnClickedCheckAll 1 cctdlg.cpp:886
+2017-11-23 15:10:41.386 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=1, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.386 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=2, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.386 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=3, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=4, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=5, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=6, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=7, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=8, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=9, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=10, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=11, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=12, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=13, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=14, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=15, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=16, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=17, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=18, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=19, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=20, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=21, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=22, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=23, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=24, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=25, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=26, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=27, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=28, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=29, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=30, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=31, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=32, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=33, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=34, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=35, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=36, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=37, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=38, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=39, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=40, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=41, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=42, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=43, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=44, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=45, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=46, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=47, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=48, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=49, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=50, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=51, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=52, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=53, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=54, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=55, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=56, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=57, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=58, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=59, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=60, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=61, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=62, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=63, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=64, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=65, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=66, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=67, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=68, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=69, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=70, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=71, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=72, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=73, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=74, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=75, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=76, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=77, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=78, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=79, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=80, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=81, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=82, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=83, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=84, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=85, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=86, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=87, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=88, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=89, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=90, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=91, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=92, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=93, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=94, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=95, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=96, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=97, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=98, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=99, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=100, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=101, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=102, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=103, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=104, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=105, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=106, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=107, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=108, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=109, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=110, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=111, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=112, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=113, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=114, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=115, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=116, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=117, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=118, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=119, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=120, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=121, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=122, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=123, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=124, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=125, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=126, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.387 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=127, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=128, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=129, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=130, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=131, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=132, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=133, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=134, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=135, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=136, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=137, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=138, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=139, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=140, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=141, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=142, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=143, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=144, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=145, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=146, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=147, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=148, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=149, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=150, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=151, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=152, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=153, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=154, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=155, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=156, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=157, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=158, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=159, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=160, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=161, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=162, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=163, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=164, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=165, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=166, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=167, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=168, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=169, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=170, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=171, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=172, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=173, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=174, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=175, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=176, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=177, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=178, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=179, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=180, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=181, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=182, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=183, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=184, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=185, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=186, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=187, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=188, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=189, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=190, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=191, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=192, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=193, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=194, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=195, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=196, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=197, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=198, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=199, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=200, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=201, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=202, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=203, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=204, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=205, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=206, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=207, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=208, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=209, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=210, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=211, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=212, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=213, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=214, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=215, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=216, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=217, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=218, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=219, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=220, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=221, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=222, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=223, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=224, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=225, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=226, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=227, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=228, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=229, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=230, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=231, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=232, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=233, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=234, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=235, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=236, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=237, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=238, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=239, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=240, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=241, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=242, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=243, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=244, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=245, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=246, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.388 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=247, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.389 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=248, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.389 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=249, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.389 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=250, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.389 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=251, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.389 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=252, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.389 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=253, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:41.389 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=254, onoff=1 cctdlg.cpp:640
+2017-11-23 15:10:45.794 [13440] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-23 15:10:45.794 [13440] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-23 15:10:50.796 [3180] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-23 15:10:50.796 [3180] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-23 15:10:55.799 [13440] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-23 15:10:55.799 [13440] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-23 15:11:00.801 [13440] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-23 15:11:00.801 [13440] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-23 15:11:05.805 [3180] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-23 15:11:05.805 [3180] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-23 15:11:10.807 [12436] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-23 15:11:10.807 [12436] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-23 15:11:15.810 [3180] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-23 15:11:15.810 [3180] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-23 15:11:16.581 [12760] LOG_TRACE m_s32_volume=50 cctdlg.cpp:1177
+2017-11-23 15:11:16.589 [12760] LOG_TRACE m_s32_volume=50 cctdlg.cpp:1177
+2017-11-23 15:11:17.854 [12760] LOG_TRACE spk1 0 cctdlg.cpp:654
+2017-11-23 15:11:17.854 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=1, onoff=0 cctdlg.cpp:640
+2017-11-23 15:11:18.206 [12760] LOG_TRACE spk1 1 cctdlg.cpp:654
+2017-11-23 15:11:18.206 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=1, onoff=1 cctdlg.cpp:640
+2017-11-23 15:11:20.814 [3180] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-23 15:11:20.814 [3180] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-23 15:11:25.817 [12436] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-23 15:11:25.817 [12436] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-23 15:11:30.819 [12436] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-23 15:11:30.819 [12436] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-23 15:11:35.825 [11404] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-23 15:11:35.825 [11404] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-23 15:11:40.828 [11404] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-23 15:11:40.828 [11404] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-23 15:11:45.831 [21228] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-23 15:11:45.831 [21228] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-23 15:11:50.833 [15496] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-23 15:11:50.833 [15496] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-23 15:11:51.705 [12760] LOG_TRACE m_s32_volume=50 cctdlg.cpp:1177
+2017-11-23 15:11:51.869 [12760] LOG_TRACE m_s32_volume=50 cctdlg.cpp:1177
+2017-11-23 15:11:51.969 [12760] LOG_TRACE m_s32_volume=51 cctdlg.cpp:1177
+2017-11-23 15:11:51.977 [12760] LOG_TRACE m_s32_volume=53 cctdlg.cpp:1177
+2017-11-23 15:11:51.987 [12760] LOG_TRACE m_s32_volume=54 cctdlg.cpp:1177
+2017-11-23 15:11:51.999 [12760] LOG_TRACE m_s32_volume=58 cctdlg.cpp:1177
+2017-11-23 15:11:52.004 [12760] LOG_TRACE m_s32_volume=61 cctdlg.cpp:1177
+2017-11-23 15:11:52.011 [12760] LOG_TRACE m_s32_volume=64 cctdlg.cpp:1177
+2017-11-23 15:11:52.019 [12760] LOG_TRACE m_s32_volume=68 cctdlg.cpp:1177
+2017-11-23 15:11:52.029 [12760] LOG_TRACE m_s32_volume=70 cctdlg.cpp:1177
+2017-11-23 15:11:52.038 [12760] LOG_TRACE m_s32_volume=73 cctdlg.cpp:1177
+2017-11-23 15:11:52.045 [12760] LOG_TRACE m_s32_volume=74 cctdlg.cpp:1177
+2017-11-23 15:11:52.054 [12760] LOG_TRACE m_s32_volume=75 cctdlg.cpp:1177
+2017-11-23 15:11:52.135 [12760] LOG_TRACE m_s32_volume=76 cctdlg.cpp:1177
+2017-11-23 15:11:52.153 [12760] LOG_TRACE m_s32_volume=77 cctdlg.cpp:1177
+2017-11-23 15:11:52.161 [12760] LOG_TRACE m_s32_volume=78 cctdlg.cpp:1177
+2017-11-23 15:11:52.177 [12760] LOG_TRACE m_s32_volume=80 cctdlg.cpp:1177
+2017-11-23 15:11:52.185 [12760] LOG_TRACE m_s32_volume=82 cctdlg.cpp:1177
+2017-11-23 15:11:52.201 [12760] LOG_TRACE m_s32_volume=84 cctdlg.cpp:1177
+2017-11-23 15:11:52.217 [12760] LOG_TRACE m_s32_volume=85 cctdlg.cpp:1177
+2017-11-23 15:11:52.227 [12760] LOG_TRACE m_s32_volume=86 cctdlg.cpp:1177
+2017-11-23 15:11:52.235 [12760] LOG_TRACE m_s32_volume=87 cctdlg.cpp:1177
+2017-11-23 15:11:52.242 [12760] LOG_TRACE m_s32_volume=91 cctdlg.cpp:1177
+2017-11-23 15:11:52.251 [12760] LOG_TRACE m_s32_volume=92 cctdlg.cpp:1177
+2017-11-23 15:11:52.259 [12760] LOG_TRACE m_s32_volume=94 cctdlg.cpp:1177
+2017-11-23 15:11:52.269 [12760] LOG_TRACE m_s32_volume=95 cctdlg.cpp:1177
+2017-11-23 15:11:52.277 [12760] LOG_TRACE m_s32_volume=97 cctdlg.cpp:1177
+2017-11-23 15:11:52.294 [12760] LOG_TRACE m_s32_volume=99 cctdlg.cpp:1177
+2017-11-23 15:11:52.309 [12760] LOG_TRACE m_s32_volume=100 cctdlg.cpp:1177
+2017-11-23 15:11:52.767 [12760] LOG_TRACE m_s32_volume=97 cctdlg.cpp:1177
+2017-11-23 15:11:52.787 [12760] LOG_TRACE m_s32_volume=95 cctdlg.cpp:1177
+2017-11-23 15:11:52.801 [12760] LOG_TRACE m_s32_volume=94 cctdlg.cpp:1177
+2017-11-23 15:11:52.873 [12760] LOG_TRACE m_s32_volume=93 cctdlg.cpp:1177
+2017-11-23 15:11:52.881 [12760] LOG_TRACE m_s32_volume=91 cctdlg.cpp:1177
+2017-11-23 15:11:52.889 [12760] LOG_TRACE m_s32_volume=89 cctdlg.cpp:1177
+2017-11-23 15:11:52.897 [12760] LOG_TRACE m_s32_volume=88 cctdlg.cpp:1177
+2017-11-23 15:11:52.905 [12760] LOG_TRACE m_s32_volume=85 cctdlg.cpp:1177
+2017-11-23 15:11:52.923 [12760] LOG_TRACE m_s32_volume=84 cctdlg.cpp:1177
+2017-11-23 15:11:53.451 [12760] LOG_TRACE m_s32_volume=84 cctdlg.cpp:1177
+2017-11-23 15:11:53.452 [12760] LOG_TRACE m_s32_volume=84 cctdlg.cpp:1177
+2017-11-23 15:11:53.453 [12760] LOG_TRACE m_s32_volume=84 cctdlg.cpp:1177
+2017-11-23 15:11:55.837 [15496] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-23 15:11:55.837 [15496] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-23 15:11:56.979 [12760] LOG_TRACE m_s32_volume=84 cctdlg.cpp:1177
+2017-11-23 15:12:00.839 [15496] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-23 15:12:00.839 [15496] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-23 15:12:05.845 [15496] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-23 15:12:05.845 [15496] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-23 15:12:10.847 [11404] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-23 15:12:10.847 [11404] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-23 15:12:15.852 [11404] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-23 15:12:15.852 [11404] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-23 15:12:20.854 [15496] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-23 15:12:20.854 [15496] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-23 15:12:25.858 [15496] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-23 15:12:25.858 [15496] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-23 15:12:30.899 [15496] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-23 15:12:30.899 [15496] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-23 15:12:33.124 [12760] LOG_TRACE m_s32_volume=84 cctdlg.cpp:1177
+2017-11-23 15:12:34.305 [12760] LOG_TRACE m_s32_volume=84 cctdlg.cpp:1177
+2017-11-23 15:12:35.902 [15496] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-23 15:12:35.902 [15496] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-23 15:12:36.300 [12760] LOG_TRACE m_s32_volume=84 cctdlg.cpp:1177
+2017-11-23 15:12:37.834 [12760] LOG_TRACE m_s32_volume=84 cctdlg.cpp:1177
+2017-11-23 15:12:37.966 [12760] LOG_TRACE spk1 0 cctdlg.cpp:654
+2017-11-23 15:12:37.966 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=1, onoff=0 cctdlg.cpp:640
+2017-11-23 15:12:38.198 [12760] LOG_TRACE spk1 1 cctdlg.cpp:654
+2017-11-23 15:12:38.198 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=1, onoff=1 cctdlg.cpp:640
+2017-11-23 15:12:39.764 [12760] LOG_TRACE CCCTDlg::OnBnClickedButtonTest cctdlg.cpp:382
+2017-11-23 15:12:40.905 [15496] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-23 15:12:40.905 [15496] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-23 15:12:45.908 [20516] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-23 15:12:45.908 [20516] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-23 15:12:50.970 [15496] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-23 15:12:50.970 [15496] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-23 15:12:56.129 [15496] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-23 15:12:56.129 [15496] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-23 15:13:01.152 [11404] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-23 15:13:01.152 [11404] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-23 15:13:06.187 [15496] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-23 15:13:06.187 [15496] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-23 15:13:11.269 [11404] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-23 15:13:11.269 [11404] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-23 15:13:13.596 [12760] LOG_TRACE DeleteTimerQueue cctdlg.cpp:994
+2017-11-23 15:13:14.274 [12760] LOG_TRACE CCCTDlg::stopRecord cctdlg.cpp:583
+2017-11-23 15:13:14.274 [12760] LOG_INFO wav in close err:5 cctdlg.cpp:593
+2017-11-23 15:13:16.814 [12760] LOG_TRACE spk1 0 cctdlg.cpp:654
+2017-11-23 15:13:16.814 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=1, onoff=0 cctdlg.cpp:640
+2017-11-23 15:13:17.057 [12760] LOG_TRACE spk1 1 cctdlg.cpp:654
+2017-11-23 15:13:17.057 [12760] LOG_TRACE CCCTDlg::set_speaker, spk=1, onoff=1 cctdlg.cpp:640
+2017-11-23 15:13:19.957 [11404] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-23 15:13:19.957 [11404] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-23 15:13:24.960 [20516] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-23 15:13:24.960 [20516] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-23 15:13:29.964 [11404] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-23 15:13:29.964 [11404] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-23 15:13:34.966 [11404] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-23 15:13:34.966 [11404] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-23 15:13:39.970 [20516] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-23 15:13:39.970 [20516] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-23 15:13:44.972 [11404] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-23 15:13:44.972 [11404] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-23 15:13:49.975 [11404] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-23 15:13:49.975 [11404] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-23 15:13:54.977 [11404] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-23 15:13:54.977 [11404] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-23 15:13:59.982 [11404] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-23 15:13:59.982 [11404] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-23 15:14:04.992 [20516] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-23 15:14:04.992 [20516] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-23 15:14:09.997 [11404] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-23 15:14:09.997 [11404] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-23 15:14:15.002 [11404] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-23 15:14:15.002 [11404] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-23 15:14:20.021 [15496] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-23 15:14:20.021 [15496] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-23 15:14:25.028 [15496] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-23 15:14:25.028 [15496] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-23 15:14:30.036 [20516] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-23 15:14:30.036 [20516] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-23 15:14:32.670 [12760] LOG_TRACE m_s32_volume=84 cctdlg.cpp:1177
+2017-11-23 15:14:35.040 [15496] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-23 15:14:35.040 [15496] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-23 15:14:40.044 [15496] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-23 15:14:40.044 [15496] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-23 15:14:45.064 [15496] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-23 15:14:45.064 [15496] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-23 15:14:50.072 [15496] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-23 15:14:50.072 [15496] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-23 15:14:55.078 [15496] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-23 15:14:55.078 [15496] LOG_TRACE play file change to  0 cctdlg.cpp:1038

@@ -1,0 +1,256 @@
+2017-12-06 18:18:38.009 [9816] LOG_ALARM -----------------  log4z thread started!   ---------------------------- log4z.cpp:1924
+2017-12-06 18:18:38.014 [9816] LOG_ALARM logger id=0 key=Main name=Main path=./log/ level=0 display=true log4z.cpp:1934
+2017-12-06 18:18:38.014 [11200] LOG_TRACE stream input *** LOGT LOGT LOGT LOGT ***  cctdlg.cpp:80
+2017-12-06 18:18:38.014 [11200] LOG_DEBUG stream input *** LOGD LOGD LOGD LOGD ***  cctdlg.cpp:81
+2017-12-06 18:18:38.014 [11200] LOG_INFO stream input *** LOGI LOGI LOGI LOGI ***  cctdlg.cpp:82
+2017-12-06 18:18:38.014 [11200] LOG_WARN stream input *** LOGW LOGW LOGW LOGW ***  cctdlg.cpp:83
+2017-12-06 18:18:38.014 [11200] LOG_ERROR stream input *** LOGE LOGE LOGE LOGE ***  cctdlg.cpp:84
+2017-12-06 18:18:38.014 [11200] LOG_ALARM stream input *** LOGA LOGA LOGA LOGA ***  cctdlg.cpp:85
+2017-12-06 18:18:38.014 [11200] LOG_FATAL stream input *** LOGF LOGF LOGF LOGF ***  cctdlg.cpp:86
+2017-12-06 18:18:38.014 [11200] LOG_TRACE format input *** LOGFMTT *** 123456 *** cctdlg.cpp:87
+2017-12-06 18:18:38.014 [11200] LOG_DEBUG format input *** LOGFMTD *** 123456 *** cctdlg.cpp:88
+2017-12-06 18:18:38.014 [11200] LOG_INFO format input *** LOGFMTI *** 123456 *** cctdlg.cpp:89
+2017-12-06 18:18:38.014 [11200] LOG_WARN format input *** LOGFMTW *** 123456 *** cctdlg.cpp:90
+2017-12-06 18:18:38.014 [11200] LOG_ERROR format input *** LOGFMTE *** 123456 *** cctdlg.cpp:91
+2017-12-06 18:18:38.014 [11200] LOG_ALARM format input *** LOGFMTA *** 123456 *** cctdlg.cpp:92
+2017-12-06 18:18:38.014 [11200] LOG_FATAL format input *** LOGFMTF *** 123456 *** cctdlg.cpp:93
+2017-12-06 18:18:38.014 [11200] LOG_ALARM main quit ... cctdlg.cpp:95
+2017-12-06 18:18:38.073 [11200] LOG_TRACE CCCTDlg::udp_client_init cctdlg.cpp:611
+2017-12-06 18:18:38.073 [11140] LOG_TRACE call_dev_mon_thread 
+ devmon.cpp:6
+2017-12-06 18:18:38.073 [11140] LOG_TRACE CDevMon::dev_mon_thread start
+ devmon.cpp:29
+2017-12-06 18:18:38.150 [11200] LOG_TRACE m_s32_volume=50 cctdlg.cpp:1177
+2017-12-06 18:18:42.180 [11200] LOG_TRACE CCCTDlg::stopRecord cctdlg.cpp:583
+2017-12-06 18:18:42.182 [11200] LOG_INFO wav in close err:5 cctdlg.cpp:593
+2017-12-06 18:19:31.078 [11200] LOG_TRACE DeleteTimerQueue cctdlg.cpp:994
+2017-12-06 18:19:32.221 [11200] LOG_TRACE CCCTDlg::stopRecord cctdlg.cpp:583
+2017-12-06 18:19:32.221 [11200] LOG_INFO wav in close err:5 cctdlg.cpp:593
+2017-12-06 18:19:34.374 [11200] LOG_TRACE DeleteTimerQueue cctdlg.cpp:994
+2017-12-06 18:19:38.096 [11200] LOG_TRACE CCCTDlg::stopRecord cctdlg.cpp:583
+2017-12-06 18:19:38.096 [11200] LOG_INFO wav in close err:5 cctdlg.cpp:593
+2017-12-06 18:19:45.551 [11200] LOG_TRACE DeleteTimerQueue cctdlg.cpp:994
+2017-12-06 18:19:47.633 [11200] LOG_TRACE CCCTDlg::stopRecord cctdlg.cpp:583
+2017-12-06 18:19:47.633 [11200] LOG_INFO wav in close err:5 cctdlg.cpp:593
+2017-12-06 18:19:52.602 [11200] LOG_TRACE DeleteTimerQueue cctdlg.cpp:994
+2017-12-06 18:30:28.377 [11200] LOG_TRACE CCCTDlg::stopRecord cctdlg.cpp:583
+2017-12-06 18:30:28.377 [11200] LOG_INFO wav in close err:5 cctdlg.cpp:593
+2017-12-06 18:33:18.921 [10880] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-12-06 18:33:18.921 [10880] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-12-06 18:35:54.393 [11200] LOG_TRACE m_s32_volume=50 cctdlg.cpp:1177
+2017-12-06 18:36:58.833 [10880] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-12-06 18:36:58.833 [10880] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-12-06 18:37:59.332 [11200] LOG_TRACE DeleteTimerQueue cctdlg.cpp:994
+2017-12-06 18:38:00.932 [11200] LOG_TRACE CCCTDlg::stopRecord cctdlg.cpp:583
+2017-12-06 18:38:00.932 [11200] LOG_INFO wav in close err:5 cctdlg.cpp:593
+2017-12-06 18:40:43.310 [9780] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-12-06 18:40:43.310 [9780] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-12-06 18:44:23.201 [9780] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-12-06 18:44:23.201 [9780] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-12-06 18:48:01.992 [11200] LOG_TRACE m_s32_volume=50 cctdlg.cpp:1177
+2017-12-06 18:48:02.070 [11200] LOG_TRACE m_s32_volume=50 cctdlg.cpp:1177
+2017-12-06 18:48:02.297 [11200] LOG_TRACE m_s32_volume=50 cctdlg.cpp:1177
+2017-12-06 18:48:02.612 [11200] LOG_TRACE m_s32_volume=50 cctdlg.cpp:1177
+2017-12-06 18:48:02.741 [11200] LOG_TRACE m_s32_volume=49 cctdlg.cpp:1177
+2017-12-06 18:48:02.757 [11200] LOG_TRACE m_s32_volume=51 cctdlg.cpp:1177
+2017-12-06 18:48:02.765 [11200] LOG_TRACE m_s32_volume=54 cctdlg.cpp:1177
+2017-12-06 18:48:02.772 [11200] LOG_TRACE m_s32_volume=57 cctdlg.cpp:1177
+2017-12-06 18:48:02.783 [11200] LOG_TRACE m_s32_volume=61 cctdlg.cpp:1177
+2017-12-06 18:48:02.791 [11200] LOG_TRACE m_s32_volume=64 cctdlg.cpp:1177
+2017-12-06 18:48:02.799 [11200] LOG_TRACE m_s32_volume=67 cctdlg.cpp:1177
+2017-12-06 18:48:02.807 [11200] LOG_TRACE m_s32_volume=68 cctdlg.cpp:1177
+2017-12-06 18:48:02.815 [11200] LOG_TRACE m_s32_volume=69 cctdlg.cpp:1177
+2017-12-06 18:48:02.823 [11200] LOG_TRACE m_s32_volume=71 cctdlg.cpp:1177
+2017-12-06 18:48:02.841 [11200] LOG_TRACE m_s32_volume=72 cctdlg.cpp:1177
+2017-12-06 18:48:03.007 [11200] LOG_TRACE m_s32_volume=73 cctdlg.cpp:1177
+2017-12-06 18:48:03.015 [11200] LOG_TRACE m_s32_volume=74 cctdlg.cpp:1177
+2017-12-06 18:48:03.023 [11200] LOG_TRACE m_s32_volume=75 cctdlg.cpp:1177
+2017-12-06 18:48:03.031 [11200] LOG_TRACE m_s32_volume=76 cctdlg.cpp:1177
+2017-12-06 18:48:03.057 [11200] LOG_TRACE m_s32_volume=78 cctdlg.cpp:1177
+2017-12-06 18:48:03.073 [11200] LOG_TRACE m_s32_volume=79 cctdlg.cpp:1177
+2017-12-06 18:48:03.081 [11200] LOG_TRACE m_s32_volume=80 cctdlg.cpp:1177
+2017-12-06 18:48:03.089 [11200] LOG_TRACE m_s32_volume=81 cctdlg.cpp:1177
+2017-12-06 18:48:03.094 [9780] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-12-06 18:48:03.094 [9780] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-12-06 18:48:03.097 [11200] LOG_TRACE m_s32_volume=82 cctdlg.cpp:1177
+2017-12-06 18:48:03.115 [11200] LOG_TRACE m_s32_volume=83 cctdlg.cpp:1177
+2017-12-06 18:48:03.131 [11200] LOG_TRACE m_s32_volume=84 cctdlg.cpp:1177
+2017-12-06 18:48:03.138 [11200] LOG_TRACE m_s32_volume=85 cctdlg.cpp:1177
+2017-12-06 18:48:03.147 [11200] LOG_TRACE m_s32_volume=86 cctdlg.cpp:1177
+2017-12-06 18:48:03.155 [11200] LOG_TRACE m_s32_volume=87 cctdlg.cpp:1177
+2017-12-06 18:48:03.163 [11200] LOG_TRACE m_s32_volume=88 cctdlg.cpp:1177
+2017-12-06 18:48:03.173 [11200] LOG_TRACE m_s32_volume=89 cctdlg.cpp:1177
+2017-12-06 18:48:03.189 [11200] LOG_TRACE m_s32_volume=90 cctdlg.cpp:1177
+2017-12-06 18:48:03.295 [11200] LOG_TRACE m_s32_volume=91 cctdlg.cpp:1177
+2017-12-06 18:48:03.311 [11200] LOG_TRACE m_s32_volume=93 cctdlg.cpp:1177
+2017-12-06 18:48:03.321 [11200] LOG_TRACE m_s32_volume=94 cctdlg.cpp:1177
+2017-12-06 18:48:03.329 [11200] LOG_TRACE m_s32_volume=95 cctdlg.cpp:1177
+2017-12-06 18:48:03.337 [11200] LOG_TRACE m_s32_volume=97 cctdlg.cpp:1177
+2017-12-06 18:48:03.345 [11200] LOG_TRACE m_s32_volume=98 cctdlg.cpp:1177
+2017-12-06 18:48:03.353 [11200] LOG_TRACE m_s32_volume=99 cctdlg.cpp:1177
+2017-12-06 18:48:03.437 [11200] LOG_TRACE m_s32_volume=100 cctdlg.cpp:1177
+2017-12-06 18:48:04.107 [11200] LOG_TRACE m_s32_volume=99 cctdlg.cpp:1177
+2017-12-06 18:48:04.115 [11200] LOG_TRACE m_s32_volume=98 cctdlg.cpp:1177
+2017-12-06 18:48:04.123 [11200] LOG_TRACE m_s32_volume=93 cctdlg.cpp:1177
+2017-12-06 18:48:04.131 [11200] LOG_TRACE m_s32_volume=91 cctdlg.cpp:1177
+2017-12-06 18:48:04.141 [11200] LOG_TRACE m_s32_volume=89 cctdlg.cpp:1177
+2017-12-06 18:48:04.149 [11200] LOG_TRACE m_s32_volume=88 cctdlg.cpp:1177
+2017-12-06 18:48:04.157 [11200] LOG_TRACE m_s32_volume=84 cctdlg.cpp:1177
+2017-12-06 18:48:04.173 [11200] LOG_TRACE m_s32_volume=82 cctdlg.cpp:1177
+2017-12-06 18:48:04.181 [11200] LOG_TRACE m_s32_volume=81 cctdlg.cpp:1177
+2017-12-06 18:48:04.197 [11200] LOG_TRACE m_s32_volume=80 cctdlg.cpp:1177
+2017-12-06 18:48:04.215 [11200] LOG_TRACE m_s32_volume=78 cctdlg.cpp:1177
+2017-12-06 18:48:04.231 [11200] LOG_TRACE m_s32_volume=77 cctdlg.cpp:1177
+2017-12-06 18:48:04.239 [11200] LOG_TRACE m_s32_volume=76 cctdlg.cpp:1177
+2017-12-06 18:48:04.263 [11200] LOG_TRACE m_s32_volume=74 cctdlg.cpp:1177
+2017-12-06 18:48:04.271 [11200] LOG_TRACE m_s32_volume=72 cctdlg.cpp:1177
+2017-12-06 18:48:04.279 [11200] LOG_TRACE m_s32_volume=71 cctdlg.cpp:1177
+2017-12-06 18:48:04.287 [11200] LOG_TRACE m_s32_volume=70 cctdlg.cpp:1177
+2017-12-06 18:48:04.297 [11200] LOG_TRACE m_s32_volume=69 cctdlg.cpp:1177
+2017-12-06 18:48:04.313 [11200] LOG_TRACE m_s32_volume=68 cctdlg.cpp:1177
+2017-12-06 18:48:04.431 [11200] LOG_TRACE m_s32_volume=67 cctdlg.cpp:1177
+2017-12-06 18:48:04.441 [11200] LOG_TRACE m_s32_volume=66 cctdlg.cpp:1177
+2017-12-06 18:48:04.459 [11200] LOG_TRACE m_s32_volume=65 cctdlg.cpp:1177
+2017-12-06 18:48:04.465 [11200] LOG_TRACE m_s32_volume=64 cctdlg.cpp:1177
+2017-12-06 18:48:04.482 [11200] LOG_TRACE m_s32_volume=62 cctdlg.cpp:1177
+2017-12-06 18:48:04.497 [11200] LOG_TRACE m_s32_volume=61 cctdlg.cpp:1177
+2017-12-06 18:48:04.513 [11200] LOG_TRACE m_s32_volume=59 cctdlg.cpp:1177
+2017-12-06 18:48:04.521 [11200] LOG_TRACE m_s32_volume=58 cctdlg.cpp:1177
+2017-12-06 18:48:04.529 [11200] LOG_TRACE m_s32_volume=57 cctdlg.cpp:1177
+2017-12-06 18:48:04.537 [11200] LOG_TRACE m_s32_volume=56 cctdlg.cpp:1177
+2017-12-06 18:48:04.548 [11200] LOG_TRACE m_s32_volume=55 cctdlg.cpp:1177
+2017-12-06 18:48:04.555 [11200] LOG_TRACE m_s32_volume=53 cctdlg.cpp:1177
+2017-12-06 18:48:04.571 [11200] LOG_TRACE m_s32_volume=52 cctdlg.cpp:1177
+2017-12-06 18:48:04.579 [11200] LOG_TRACE m_s32_volume=51 cctdlg.cpp:1177
+2017-12-06 18:48:04.597 [11200] LOG_TRACE m_s32_volume=50 cctdlg.cpp:1177
+2017-12-06 18:48:05.389 [11200] LOG_TRACE m_s32_volume=52 cctdlg.cpp:1177
+2017-12-06 18:48:05.397 [11200] LOG_TRACE m_s32_volume=53 cctdlg.cpp:1177
+2017-12-06 18:48:05.405 [11200] LOG_TRACE m_s32_volume=55 cctdlg.cpp:1177
+2017-12-06 18:48:05.414 [11200] LOG_TRACE m_s32_volume=56 cctdlg.cpp:1177
+2017-12-06 18:48:05.433 [11200] LOG_TRACE m_s32_volume=57 cctdlg.cpp:1177
+2017-12-06 18:48:05.439 [11200] LOG_TRACE m_s32_volume=58 cctdlg.cpp:1177
+2017-12-06 18:48:05.455 [11200] LOG_TRACE m_s32_volume=59 cctdlg.cpp:1177
+2017-12-06 18:48:05.879 [11200] LOG_TRACE m_s32_volume=57 cctdlg.cpp:1177
+2017-12-06 18:48:05.887 [11200] LOG_TRACE m_s32_volume=55 cctdlg.cpp:1177
+2017-12-06 18:48:05.903 [11200] LOG_TRACE m_s32_volume=53 cctdlg.cpp:1177
+2017-12-06 18:48:05.911 [11200] LOG_TRACE m_s32_volume=52 cctdlg.cpp:1177
+2017-12-06 18:48:05.919 [11200] LOG_TRACE m_s32_volume=51 cctdlg.cpp:1177
+2017-12-06 18:48:06.191 [11200] LOG_TRACE m_s32_volume=51 cctdlg.cpp:1177
+2017-12-06 18:48:06.192 [11200] LOG_TRACE m_s32_volume=51 cctdlg.cpp:1177
+2017-12-06 18:48:06.246 [11200] LOG_TRACE m_s32_volume=51 cctdlg.cpp:1177
+2017-12-06 18:48:06.903 [11200] LOG_TRACE m_s32_volume=51 cctdlg.cpp:1177
+2017-12-06 18:48:13.260 [11200] LOG_TRACE m_s32_volume=51 cctdlg.cpp:1177
+2017-12-06 18:48:13.398 [11200] LOG_TRACE DeleteTimerQueue cctdlg.cpp:994
+2017-12-06 18:48:15.523 [11200] LOG_TRACE CCCTDlg::stopRecord cctdlg.cpp:583
+2017-12-06 18:48:15.523 [11200] LOG_INFO wav in close err:5 cctdlg.cpp:593
+2017-12-06 18:48:18.078 [11200] LOG_TRACE m_s32_volume=51 cctdlg.cpp:1177
+2017-12-06 18:48:18.084 [11200] LOG_TRACE m_s32_volume=51 cctdlg.cpp:1177
+2017-12-06 18:50:59.225 [11200] LOG_TRACE m_s32_volume=51 cctdlg.cpp:1177
+2017-12-06 18:50:59.397 [11200] LOG_TRACE m_s32_volume=51 cctdlg.cpp:1177
+2017-12-06 18:50:59.509 [11200] LOG_TRACE m_s32_volume=52 cctdlg.cpp:1177
+2017-12-06 18:50:59.517 [11200] LOG_TRACE m_s32_volume=53 cctdlg.cpp:1177
+2017-12-06 18:50:59.535 [11200] LOG_TRACE m_s32_volume=54 cctdlg.cpp:1177
+2017-12-06 18:50:59.543 [11200] LOG_TRACE m_s32_volume=55 cctdlg.cpp:1177
+2017-12-06 18:50:59.573 [11200] LOG_TRACE m_s32_volume=56 cctdlg.cpp:1177
+2017-12-06 18:50:59.597 [11200] LOG_TRACE m_s32_volume=57 cctdlg.cpp:1177
+2017-12-06 18:50:59.634 [11200] LOG_TRACE m_s32_volume=58 cctdlg.cpp:1177
+2017-12-06 18:50:59.641 [11200] LOG_TRACE m_s32_volume=60 cctdlg.cpp:1177
+2017-12-06 18:50:59.657 [11200] LOG_TRACE m_s32_volume=61 cctdlg.cpp:1177
+2017-12-06 18:50:59.673 [11200] LOG_TRACE m_s32_volume=62 cctdlg.cpp:1177
+2017-12-06 18:50:59.689 [11200] LOG_TRACE m_s32_volume=63 cctdlg.cpp:1177
+2017-12-06 18:50:59.699 [11200] LOG_TRACE m_s32_volume=64 cctdlg.cpp:1177
+2017-12-06 18:50:59.707 [11200] LOG_TRACE m_s32_volume=65 cctdlg.cpp:1177
+2017-12-06 18:50:59.715 [11200] LOG_TRACE m_s32_volume=66 cctdlg.cpp:1177
+2017-12-06 18:50:59.723 [11200] LOG_TRACE m_s32_volume=67 cctdlg.cpp:1177
+2017-12-06 18:50:59.731 [11200] LOG_TRACE m_s32_volume=68 cctdlg.cpp:1177
+2017-12-06 18:50:59.880 [11200] LOG_TRACE m_s32_volume=69 cctdlg.cpp:1177
+2017-12-06 18:50:59.899 [11200] LOG_TRACE m_s32_volume=70 cctdlg.cpp:1177
+2017-12-06 18:50:59.915 [11200] LOG_TRACE m_s32_volume=71 cctdlg.cpp:1177
+2017-12-06 18:50:59.923 [11200] LOG_TRACE m_s32_volume=72 cctdlg.cpp:1177
+2017-12-06 18:50:59.945 [11200] LOG_TRACE m_s32_volume=74 cctdlg.cpp:1177
+2017-12-06 18:50:59.961 [11200] LOG_TRACE m_s32_volume=75 cctdlg.cpp:1177
+2017-12-06 18:50:59.969 [11200] LOG_TRACE m_s32_volume=76 cctdlg.cpp:1177
+2017-12-06 18:50:59.989 [11200] LOG_TRACE m_s32_volume=77 cctdlg.cpp:1177
+2017-12-06 18:51:00.011 [11200] LOG_TRACE m_s32_volume=78 cctdlg.cpp:1177
+2017-12-06 18:51:00.027 [11200] LOG_TRACE m_s32_volume=79 cctdlg.cpp:1177
+2017-12-06 18:51:00.047 [11200] LOG_TRACE m_s32_volume=80 cctdlg.cpp:1177
+2017-12-06 18:51:00.067 [11200] LOG_TRACE m_s32_volume=81 cctdlg.cpp:1177
+2017-12-06 18:51:00.089 [11200] LOG_TRACE m_s32_volume=82 cctdlg.cpp:1177
+2017-12-06 18:51:00.125 [11200] LOG_TRACE m_s32_volume=83 cctdlg.cpp:1177
+2017-12-06 18:51:00.161 [11200] LOG_TRACE m_s32_volume=84 cctdlg.cpp:1177
+2017-12-06 18:51:00.181 [11200] LOG_TRACE m_s32_volume=85 cctdlg.cpp:1177
+2017-12-06 18:51:00.203 [11200] LOG_TRACE m_s32_volume=86 cctdlg.cpp:1177
+2017-12-06 18:51:00.211 [11200] LOG_TRACE m_s32_volume=87 cctdlg.cpp:1177
+2017-12-06 18:51:00.227 [11200] LOG_TRACE m_s32_volume=88 cctdlg.cpp:1177
+2017-12-06 18:51:00.268 [11200] LOG_TRACE m_s32_volume=89 cctdlg.cpp:1177
+2017-12-06 18:51:00.343 [11200] LOG_TRACE m_s32_volume=90 cctdlg.cpp:1177
+2017-12-06 18:51:02.021 [11200] LOG_TRACE m_s32_volume=89 cctdlg.cpp:1177
+2017-12-06 18:51:02.039 [11200] LOG_TRACE m_s32_volume=86 cctdlg.cpp:1177
+2017-12-06 18:51:02.048 [11200] LOG_TRACE m_s32_volume=85 cctdlg.cpp:1177
+2017-12-06 18:51:02.055 [11200] LOG_TRACE m_s32_volume=83 cctdlg.cpp:1177
+2017-12-06 18:51:02.063 [11200] LOG_TRACE m_s32_volume=80 cctdlg.cpp:1177
+2017-12-06 18:51:02.080 [11200] LOG_TRACE m_s32_volume=77 cctdlg.cpp:1177
+2017-12-06 18:51:02.087 [11200] LOG_TRACE m_s32_volume=75 cctdlg.cpp:1177
+2017-12-06 18:51:02.098 [11200] LOG_TRACE m_s32_volume=72 cctdlg.cpp:1177
+2017-12-06 18:51:02.105 [11200] LOG_TRACE m_s32_volume=70 cctdlg.cpp:1177
+2017-12-06 18:51:02.113 [11200] LOG_TRACE m_s32_volume=68 cctdlg.cpp:1177
+2017-12-06 18:51:02.121 [11200] LOG_TRACE m_s32_volume=66 cctdlg.cpp:1177
+2017-12-06 18:51:02.129 [11200] LOG_TRACE m_s32_volume=65 cctdlg.cpp:1177
+2017-12-06 18:51:02.137 [11200] LOG_TRACE m_s32_volume=64 cctdlg.cpp:1177
+2017-12-06 18:51:02.156 [11200] LOG_TRACE m_s32_volume=63 cctdlg.cpp:1177
+2017-12-06 18:51:02.163 [11200] LOG_TRACE m_s32_volume=62 cctdlg.cpp:1177
+2017-12-06 18:51:02.179 [11200] LOG_TRACE m_s32_volume=61 cctdlg.cpp:1177
+2017-12-06 18:51:02.192 [11200] LOG_TRACE m_s32_volume=60 cctdlg.cpp:1177
+2017-12-06 18:51:02.227 [11200] LOG_TRACE m_s32_volume=59 cctdlg.cpp:1177
+2017-12-06 18:51:02.251 [11200] LOG_TRACE m_s32_volume=58 cctdlg.cpp:1177
+2017-12-06 18:51:02.260 [11200] LOG_TRACE m_s32_volume=57 cctdlg.cpp:1177
+2017-12-06 18:51:02.267 [11200] LOG_TRACE m_s32_volume=56 cctdlg.cpp:1177
+2017-12-06 18:51:02.275 [11200] LOG_TRACE m_s32_volume=55 cctdlg.cpp:1177
+2017-12-06 18:51:02.285 [11200] LOG_TRACE m_s32_volume=54 cctdlg.cpp:1177
+2017-12-06 18:51:02.293 [11200] LOG_TRACE m_s32_volume=53 cctdlg.cpp:1177
+2017-12-06 18:51:02.589 [11200] LOG_TRACE m_s32_volume=52 cctdlg.cpp:1177
+2017-12-06 18:51:02.605 [11200] LOG_TRACE m_s32_volume=51 cctdlg.cpp:1177
+2017-12-06 18:51:03.259 [11200] LOG_TRACE m_s32_volume=50 cctdlg.cpp:1177
+2017-12-06 18:51:03.369 [11200] LOG_TRACE m_s32_volume=51 cctdlg.cpp:1177
+2017-12-06 18:51:03.387 [11200] LOG_TRACE m_s32_volume=53 cctdlg.cpp:1177
+2017-12-06 18:51:03.395 [11200] LOG_TRACE m_s32_volume=55 cctdlg.cpp:1177
+2017-12-06 18:51:03.403 [11200] LOG_TRACE m_s32_volume=57 cctdlg.cpp:1177
+2017-12-06 18:51:03.411 [11200] LOG_TRACE m_s32_volume=58 cctdlg.cpp:1177
+2017-12-06 18:51:03.421 [11200] LOG_TRACE m_s32_volume=60 cctdlg.cpp:1177
+2017-12-06 18:51:03.429 [11200] LOG_TRACE m_s32_volume=62 cctdlg.cpp:1177
+2017-12-06 18:51:03.438 [11200] LOG_TRACE m_s32_volume=64 cctdlg.cpp:1177
+2017-12-06 18:51:03.445 [11200] LOG_TRACE m_s32_volume=65 cctdlg.cpp:1177
+2017-12-06 18:51:03.453 [11200] LOG_TRACE m_s32_volume=66 cctdlg.cpp:1177
+2017-12-06 18:51:03.463 [11200] LOG_TRACE m_s32_volume=67 cctdlg.cpp:1177
+2017-12-06 18:51:03.471 [11200] LOG_TRACE m_s32_volume=69 cctdlg.cpp:1177
+2017-12-06 18:51:03.479 [11200] LOG_TRACE m_s32_volume=71 cctdlg.cpp:1177
+2017-12-06 18:51:03.487 [11200] LOG_TRACE m_s32_volume=73 cctdlg.cpp:1177
+2017-12-06 18:51:03.495 [11200] LOG_TRACE m_s32_volume=74 cctdlg.cpp:1177
+2017-12-06 18:51:03.503 [11200] LOG_TRACE m_s32_volume=78 cctdlg.cpp:1177
+2017-12-06 18:51:03.514 [11200] LOG_TRACE m_s32_volume=80 cctdlg.cpp:1177
+2017-12-06 18:51:03.521 [11200] LOG_TRACE m_s32_volume=83 cctdlg.cpp:1177
+2017-12-06 18:51:03.530 [11200] LOG_TRACE m_s32_volume=88 cctdlg.cpp:1177
+2017-12-06 18:51:03.537 [11200] LOG_TRACE m_s32_volume=93 cctdlg.cpp:1177
+2017-12-06 18:51:03.545 [11200] LOG_TRACE m_s32_volume=97 cctdlg.cpp:1177
+2017-12-06 18:51:03.555 [11200] LOG_TRACE m_s32_volume=99 cctdlg.cpp:1177
+2017-12-06 18:51:03.563 [11200] LOG_TRACE m_s32_volume=100 cctdlg.cpp:1177
+2017-12-06 18:51:03.968 [11200] LOG_TRACE m_s32_volume=100 cctdlg.cpp:1177
+2017-12-06 18:51:03.969 [11200] LOG_TRACE m_s32_volume=100 cctdlg.cpp:1177
+2017-12-06 18:51:03.970 [11200] LOG_TRACE m_s32_volume=100 cctdlg.cpp:1177
+2017-12-06 18:51:05.131 [11200] LOG_TRACE m_s32_volume=100 cctdlg.cpp:1177
+2017-12-06 18:51:48.105 [10880] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-12-06 18:51:48.105 [10880] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-12-06 18:55:27.997 [10880] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-12-06 18:55:27.997 [10880] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-12-06 18:59:07.890 [9780] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-12-06 18:59:07.890 [9780] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-12-06 19:00:56.129 [11200] LOG_TRACE m_s32_volume=100 cctdlg.cpp:1177
+2017-12-06 19:00:58.455 [11200] LOG_TRACE m_s32_volume=100 cctdlg.cpp:1177
+2017-12-06 19:02:47.782 [9780] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-12-06 19:02:47.782 [9780] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-12-06 19:06:17.462 [11200] LOG_TRACE m_s32_volume=100 cctdlg.cpp:1177
+2017-12-06 19:06:18.687 [11200] LOG_TRACE m_s32_volume=100 cctdlg.cpp:1177
+2017-12-06 19:06:27.673 [10880] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-12-06 19:06:27.673 [10880] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-12-06 19:07:49.841 [11200] LOG_TRACE m_s32_volume=100 cctdlg.cpp:1177
+2017-12-06 19:07:50.660 [11200] LOG_TRACE m_s32_volume=100 cctdlg.cpp:1177

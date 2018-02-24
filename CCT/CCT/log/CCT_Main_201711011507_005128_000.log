@@ -1,0 +1,1130 @@
+2017-11-01 15:07:06.575 [12416] LOG_ALARM -----------------  log4z thread started!   ---------------------------- log4z.cpp:1924
+2017-11-01 15:07:06.579 [12416] LOG_ALARM logger id=0 key=Main name=Main path=./log/ level=0 display=true log4z.cpp:1934
+2017-11-01 15:07:06.579 [10072] LOG_TRACE stream input *** LOGT LOGT LOGT LOGT ***  cctdlg.cpp:79
+2017-11-01 15:07:06.579 [10072] LOG_DEBUG stream input *** LOGD LOGD LOGD LOGD ***  cctdlg.cpp:80
+2017-11-01 15:07:06.579 [10072] LOG_INFO stream input *** LOGI LOGI LOGI LOGI ***  cctdlg.cpp:81
+2017-11-01 15:07:06.579 [10072] LOG_WARN stream input *** LOGW LOGW LOGW LOGW ***  cctdlg.cpp:82
+2017-11-01 15:07:06.579 [10072] LOG_ERROR stream input *** LOGE LOGE LOGE LOGE ***  cctdlg.cpp:83
+2017-11-01 15:07:06.579 [10072] LOG_ALARM stream input *** LOGA LOGA LOGA LOGA ***  cctdlg.cpp:84
+2017-11-01 15:07:06.579 [10072] LOG_FATAL stream input *** LOGF LOGF LOGF LOGF ***  cctdlg.cpp:85
+2017-11-01 15:07:06.579 [10072] LOG_TRACE format input *** LOGFMTT *** 123456 *** cctdlg.cpp:86
+2017-11-01 15:07:06.579 [10072] LOG_DEBUG format input *** LOGFMTD *** 123456 *** cctdlg.cpp:87
+2017-11-01 15:07:06.579 [10072] LOG_INFO format input *** LOGFMTI *** 123456 *** cctdlg.cpp:88
+2017-11-01 15:07:06.579 [10072] LOG_WARN format input *** LOGFMTW *** 123456 *** cctdlg.cpp:89
+2017-11-01 15:07:06.579 [10072] LOG_ERROR format input *** LOGFMTE *** 123456 *** cctdlg.cpp:90
+2017-11-01 15:07:06.579 [10072] LOG_ALARM format input *** LOGFMTA *** 123456 *** cctdlg.cpp:91
+2017-11-01 15:07:06.579 [10072] LOG_FATAL format input *** LOGFMTF *** 123456 *** cctdlg.cpp:92
+2017-11-01 15:07:06.579 [10072] LOG_ALARM main quit ... cctdlg.cpp:94
+2017-11-01 15:07:06.655 [10072] LOG_TRACE CCCTDlg::udp_client_init cctdlg.cpp:590
+2017-11-01 15:07:06.655 [11104] LOG_TRACE call_dev_mon_thread 
+ devmon.cpp:6
+2017-11-01 15:07:06.655 [11104] LOG_TRACE CDevMon::dev_mon_thread start
+ devmon.cpp:29
+2017-11-01 15:07:14.518 [10072] LOG_TRACE CCCTDlg::OnBnClickedButtonTest cctdlg.cpp:366
+2017-11-01 15:07:14.518 [10072] LOG_TRACE CCCTDlg::initRecord cctdlg.cpp:395
+2017-11-01 15:07:14.531 [10072] LOG_TRACE cap_dev_num=2 cctdlg.cpp:399
+2017-11-01 15:07:14.531 [10072] LOG_INFO CCCTDlg::initRecord, sample=22050, bits=16, ch=2, block=4, bytes_per_sec=88200 cctdlg.cpp:431
+2017-11-01 15:07:14.559 [10072] LOG_TRACE WIM_OPEN cctdlg.cpp:491
+2017-11-01 15:07:15.289 [10072] LOG_TRACE CCCTDlg::stopRecord cctdlg.cpp:562
+2017-11-01 15:07:15.425 [10072] LOG_TRACE WIM_CLOSE cctdlg.cpp:551
+2017-11-01 15:07:15.427 [10072] LOG_TRACE wav in close ok cctdlg.cpp:570
+2017-11-01 15:07:18.427 [10656] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:18.441 [10656] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:18.455 [10656] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:18.469 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:18.483 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:18.497 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:18.511 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:18.525 [10656] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:18.539 [10656] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:18.553 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:18.567 [10656] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:18.581 [10656] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:18.595 [10656] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:18.609 [10656] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:18.623 [10656] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:18.637 [10656] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:18.651 [10656] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:18.665 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:18.679 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:18.693 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:18.707 [10656] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:18.721 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:18.735 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:18.749 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:18.763 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:18.777 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:18.791 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:18.805 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:18.819 [10656] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:18.833 [10656] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:18.847 [10656] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:18.861 [10656] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:18.875 [10656] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:18.889 [10656] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:18.903 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:18.917 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:18.931 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:18.945 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:18.959 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:18.973 [10656] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:18.987 [10656] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:19.001 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:19.015 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:19.029 [10656] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:19.043 [10656] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:19.057 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:19.071 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:19.085 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:19.099 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:19.113 [10656] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:19.127 [10656] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:19.141 [10656] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:19.155 [10656] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:19.169 [10656] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:19.183 [10656] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:19.197 [10656] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:19.211 [10656] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:19.225 [10656] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:19.239 [10656] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:19.253 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:19.267 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:19.281 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:19.295 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:19.309 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:19.323 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:19.337 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:19.351 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:19.365 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:19.379 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:19.393 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:19.407 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:19.421 [10656] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:19.435 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:19.449 [10656] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:19.463 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:19.477 [10656] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:19.491 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:19.505 [10656] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:19.519 [10656] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:19.533 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:19.547 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:19.561 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:19.575 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:19.589 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:19.603 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:19.617 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:19.631 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:19.645 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:19.659 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:19.673 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:19.687 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:19.701 [10656] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:19.715 [10656] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:19.729 [10656] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:19.743 [10656] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:19.757 [10656] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:19.771 [10656] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:19.785 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:19.799 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:19.813 [10656] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:19.827 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:19.835 [10072] LOG_TRACE DeleteTimerQueue cctdlg.cpp:966
+2017-11-01 15:07:20.379 [10072] LOG_TRACE CCCTDlg::stopRecord cctdlg.cpp:562
+2017-11-01 15:07:20.379 [10072] LOG_INFO wav in close err:5 cctdlg.cpp:572
+2017-11-01 15:07:23.379 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:23.393 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:23.407 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:23.421 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:23.435 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:23.449 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:23.463 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:23.477 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:23.491 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:23.505 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:23.519 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:23.533 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:23.547 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:23.561 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:23.575 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:23.589 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:23.603 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:23.617 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:23.631 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:23.645 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:23.659 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:23.673 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:23.687 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:23.701 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:23.715 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:23.729 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:23.743 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:23.757 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:23.771 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:23.785 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:23.799 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:23.813 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:23.827 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:23.841 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:23.855 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:23.869 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:23.883 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:23.897 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:23.911 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:23.925 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:23.939 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:23.953 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:23.967 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:23.981 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:23.995 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.009 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.023 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.037 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.051 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.065 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.079 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.093 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.107 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.121 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.135 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.149 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.163 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.177 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.191 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.205 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.219 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.233 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.247 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.261 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.275 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.289 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.303 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.317 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.331 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.345 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.359 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.373 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.387 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.401 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.415 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.429 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.443 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.457 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.471 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.485 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.499 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.513 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.527 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.541 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.555 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.569 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.583 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.597 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.611 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.625 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.639 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.653 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.667 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.681 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.695 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.709 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.723 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.737 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.751 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.765 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.779 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.793 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.807 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.821 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.835 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.849 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.863 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.877 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.891 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.905 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.919 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.933 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.947 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.961 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.975 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:24.989 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.003 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.017 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.031 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.045 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.059 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.073 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.087 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.101 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.115 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.129 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.143 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.157 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.171 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.185 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.199 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.213 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.227 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.241 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.255 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.269 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.283 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.297 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.311 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.325 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.339 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.353 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.367 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.381 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.395 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.409 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.423 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.437 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.451 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.465 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.479 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.493 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.507 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.521 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.535 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.550 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.564 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.578 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.592 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.606 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.620 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.634 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.648 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.662 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.676 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.690 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.704 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.718 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.732 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.746 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.760 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.774 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.788 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.802 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.816 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.830 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.844 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.858 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.872 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.886 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.900 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.914 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.928 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.942 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.956 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.970 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.984 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:25.998 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:26.012 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:26.026 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:26.040 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:26.054 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:26.068 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:26.082 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:26.096 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:26.110 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:26.124 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:26.138 [12240] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:26.152 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:26.162 [10072] LOG_TRACE DeleteTimerQueue cctdlg.cpp:966
+2017-11-01 15:07:26.643 [10072] LOG_TRACE CCCTDlg::stopRecord cctdlg.cpp:562
+2017-11-01 15:07:26.643 [10072] LOG_INFO wav in close err:5 cctdlg.cpp:572
+2017-11-01 15:07:29.644 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:29.658 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:29.672 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:29.686 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:29.700 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:29.714 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:29.728 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:29.742 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:29.756 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:29.770 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:29.784 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:29.798 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:29.812 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:29.826 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:29.840 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:29.854 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:29.868 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:29.882 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:29.896 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:29.910 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:29.924 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:29.938 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:29.952 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:29.966 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:29.980 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:29.994 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.008 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.022 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.036 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.050 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.064 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.078 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.092 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.106 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.120 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.134 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.148 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.162 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.176 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.190 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.204 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.218 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.232 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.246 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.260 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.274 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.288 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.302 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.316 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.330 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.344 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.358 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.372 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.386 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.400 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.414 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.428 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.442 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.456 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.470 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.484 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.498 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.512 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.526 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.540 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.554 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.568 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.582 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.596 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.610 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.624 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.638 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.652 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.666 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.680 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.694 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.708 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.722 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.736 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.750 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.764 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.778 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.792 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.806 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.820 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.834 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.848 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.862 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.876 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.890 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.904 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.918 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.932 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.946 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.960 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.974 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:30.988 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.002 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.016 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.030 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.044 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.058 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.072 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.086 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.100 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.114 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.128 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.142 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.156 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.170 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.184 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.198 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.212 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.226 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.240 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.254 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.268 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.282 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.296 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.310 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.324 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.338 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.352 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.366 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.380 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.394 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.408 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.422 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.436 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.450 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.464 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.478 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.492 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.506 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.520 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.534 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.548 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.562 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.576 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.590 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.604 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.618 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.632 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.646 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.660 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.674 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.688 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.702 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.716 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.730 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.744 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.758 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.772 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.786 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.800 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.814 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.828 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.842 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.856 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.870 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.884 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.898 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.912 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.926 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.940 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.954 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.968 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.982 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:31.996 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.010 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.024 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.038 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.052 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.066 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.080 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.094 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.108 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.122 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.136 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.150 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.164 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.178 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.192 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.206 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.220 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.234 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.248 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.262 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.276 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.290 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.304 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.318 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.332 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.346 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.360 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.374 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.388 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.402 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.416 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.430 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.444 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.458 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.472 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.486 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.500 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.514 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.528 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.542 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.556 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.570 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.584 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.598 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.612 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.626 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.640 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.654 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.668 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.682 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.696 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.710 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.724 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.738 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.752 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.766 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.780 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.794 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.808 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.822 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.836 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.850 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.864 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.878 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.892 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.906 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.920 [10532] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.934 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.948 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.962 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.976 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:32.990 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:33.004 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:33.018 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:33.032 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:33.046 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:33.060 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:33.074 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998
+2017-11-01 15:07:33.088 [12216] LOG_TRACE Timer routine called. Parameter is 12880316.
+ cctdlg.cpp:998

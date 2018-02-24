@@ -1,0 +1,22 @@
+2017-11-01 15:02:45.318 [13220] LOG_ALARM -----------------  log4z thread started!   ---------------------------- log4z.cpp:1924
+2017-11-01 15:02:45.323 [13220] LOG_ALARM logger id=0 key=Main name=Main path=./log/ level=0 display=true log4z.cpp:1934
+2017-11-01 15:02:45.323 [12344] LOG_TRACE stream input *** LOGT LOGT LOGT LOGT ***  cctdlg.cpp:79
+2017-11-01 15:02:45.323 [12344] LOG_DEBUG stream input *** LOGD LOGD LOGD LOGD ***  cctdlg.cpp:80
+2017-11-01 15:02:45.323 [12344] LOG_INFO stream input *** LOGI LOGI LOGI LOGI ***  cctdlg.cpp:81
+2017-11-01 15:02:45.323 [12344] LOG_WARN stream input *** LOGW LOGW LOGW LOGW ***  cctdlg.cpp:82
+2017-11-01 15:02:45.323 [12344] LOG_ERROR stream input *** LOGE LOGE LOGE LOGE ***  cctdlg.cpp:83
+2017-11-01 15:02:45.323 [12344] LOG_ALARM stream input *** LOGA LOGA LOGA LOGA ***  cctdlg.cpp:84
+2017-11-01 15:02:45.323 [12344] LOG_FATAL stream input *** LOGF LOGF LOGF LOGF ***  cctdlg.cpp:85
+2017-11-01 15:02:45.323 [12344] LOG_TRACE format input *** LOGFMTT *** 123456 *** cctdlg.cpp:86
+2017-11-01 15:02:45.323 [12344] LOG_DEBUG format input *** LOGFMTD *** 123456 *** cctdlg.cpp:87
+2017-11-01 15:02:45.323 [12344] LOG_INFO format input *** LOGFMTI *** 123456 *** cctdlg.cpp:88
+2017-11-01 15:02:45.323 [12344] LOG_WARN format input *** LOGFMTW *** 123456 *** cctdlg.cpp:89
+2017-11-01 15:02:45.323 [12344] LOG_ERROR format input *** LOGFMTE *** 123456 *** cctdlg.cpp:90
+2017-11-01 15:02:45.323 [12344] LOG_ALARM format input *** LOGFMTA *** 123456 *** cctdlg.cpp:91
+2017-11-01 15:02:45.323 [12344] LOG_FATAL format input *** LOGFMTF *** 123456 *** cctdlg.cpp:92
+2017-11-01 15:02:45.323 [12344] LOG_ALARM main quit ... cctdlg.cpp:94
+2017-11-01 15:02:45.399 [12344] LOG_TRACE CCCTDlg::udp_client_init cctdlg.cpp:590
+2017-11-01 15:02:45.399 [7816] LOG_TRACE call_dev_mon_thread 
+ devmon.cpp:6
+2017-11-01 15:02:45.399 [7816] LOG_TRACE CDevMon::dev_mon_thread start
+ devmon.cpp:29

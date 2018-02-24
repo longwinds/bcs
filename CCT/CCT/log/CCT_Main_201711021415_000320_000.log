@@ -1,0 +1,135 @@
+2017-11-02 14:15:51.943 [8316] LOG_ALARM -----------------  log4z thread started!   ---------------------------- log4z.cpp:1924
+2017-11-02 14:15:51.954 [8316] LOG_ALARM logger id=0 key=Main name=Main path=./log/ level=0 display=true log4z.cpp:1934
+2017-11-02 14:15:51.955 [8244] LOG_TRACE stream input *** LOGT LOGT LOGT LOGT ***  cctdlg.cpp:80
+2017-11-02 14:15:51.955 [8244] LOG_DEBUG stream input *** LOGD LOGD LOGD LOGD ***  cctdlg.cpp:81
+2017-11-02 14:15:51.955 [8244] LOG_INFO stream input *** LOGI LOGI LOGI LOGI ***  cctdlg.cpp:82
+2017-11-02 14:15:51.955 [8244] LOG_WARN stream input *** LOGW LOGW LOGW LOGW ***  cctdlg.cpp:83
+2017-11-02 14:15:51.955 [8244] LOG_ERROR stream input *** LOGE LOGE LOGE LOGE ***  cctdlg.cpp:84
+2017-11-02 14:15:51.955 [8244] LOG_ALARM stream input *** LOGA LOGA LOGA LOGA ***  cctdlg.cpp:85
+2017-11-02 14:15:51.955 [8244] LOG_FATAL stream input *** LOGF LOGF LOGF LOGF ***  cctdlg.cpp:86
+2017-11-02 14:15:51.955 [8244] LOG_TRACE format input *** LOGFMTT *** 123456 *** cctdlg.cpp:87
+2017-11-02 14:15:51.955 [8244] LOG_DEBUG format input *** LOGFMTD *** 123456 *** cctdlg.cpp:88
+2017-11-02 14:15:51.955 [8244] LOG_INFO format input *** LOGFMTI *** 123456 *** cctdlg.cpp:89
+2017-11-02 14:15:51.955 [8244] LOG_WARN format input *** LOGFMTW *** 123456 *** cctdlg.cpp:90
+2017-11-02 14:15:51.955 [8244] LOG_ERROR format input *** LOGFMTE *** 123456 *** cctdlg.cpp:91
+2017-11-02 14:15:51.955 [8244] LOG_ALARM format input *** LOGFMTA *** 123456 *** cctdlg.cpp:92
+2017-11-02 14:15:51.955 [8244] LOG_FATAL format input *** LOGFMTF *** 123456 *** cctdlg.cpp:93
+2017-11-02 14:15:51.955 [8244] LOG_ALARM main quit ... cctdlg.cpp:95
+2017-11-02 14:15:52.053 [8244] LOG_TRACE CCCTDlg::udp_client_init cctdlg.cpp:606
+2017-11-02 14:15:52.054 [9616] LOG_TRACE call_dev_mon_thread 
+ devmon.cpp:6
+2017-11-02 14:15:52.054 [9616] LOG_TRACE CDevMon::dev_mon_thread start
+ devmon.cpp:29
+2017-11-02 14:15:52.163 [8244] LOG_TRACE m_s32_volume=0 cctdlg.cpp:1161
+2017-11-02 14:15:53.668 [8244] LOG_TRACE m_s32_volume=0 cctdlg.cpp:1161
+2017-11-02 14:15:53.986 [8244] LOG_TRACE m_s32_volume=0 cctdlg.cpp:1161
+2017-11-02 14:15:54.055 [8244] LOG_TRACE m_s32_volume=1 cctdlg.cpp:1161
+2017-11-02 14:15:54.080 [8244] LOG_TRACE m_s32_volume=2 cctdlg.cpp:1161
+2017-11-02 14:15:54.099 [8244] LOG_TRACE m_s32_volume=3 cctdlg.cpp:1161
+2017-11-02 14:15:54.119 [8244] LOG_TRACE m_s32_volume=4 cctdlg.cpp:1161
+2017-11-02 14:15:54.127 [8244] LOG_TRACE m_s32_volume=5 cctdlg.cpp:1161
+2017-11-02 14:15:54.149 [8244] LOG_TRACE m_s32_volume=6 cctdlg.cpp:1161
+2017-11-02 14:15:54.169 [8244] LOG_TRACE m_s32_volume=7 cctdlg.cpp:1161
+2017-11-02 14:15:54.201 [8244] LOG_TRACE m_s32_volume=8 cctdlg.cpp:1161
+2017-11-02 14:15:54.225 [8244] LOG_TRACE m_s32_volume=9 cctdlg.cpp:1161
+2017-11-02 14:15:54.269 [8244] LOG_TRACE m_s32_volume=10 cctdlg.cpp:1161
+2017-11-02 14:15:54.279 [8244] LOG_TRACE m_s32_volume=11 cctdlg.cpp:1161
+2017-11-02 14:15:54.303 [8244] LOG_TRACE m_s32_volume=12 cctdlg.cpp:1161
+2017-11-02 14:15:54.311 [8244] LOG_TRACE m_s32_volume=14 cctdlg.cpp:1161
+2017-11-02 14:15:54.329 [8244] LOG_TRACE m_s32_volume=15 cctdlg.cpp:1161
+2017-11-02 14:15:54.337 [8244] LOG_TRACE m_s32_volume=16 cctdlg.cpp:1161
+2017-11-02 14:15:54.362 [8244] LOG_TRACE m_s32_volume=17 cctdlg.cpp:1161
+2017-11-02 14:15:54.369 [8244] LOG_TRACE m_s32_volume=18 cctdlg.cpp:1161
+2017-11-02 14:15:54.377 [8244] LOG_TRACE m_s32_volume=19 cctdlg.cpp:1161
+2017-11-02 14:15:54.395 [8244] LOG_TRACE m_s32_volume=20 cctdlg.cpp:1161
+2017-11-02 14:15:54.419 [8244] LOG_TRACE m_s32_volume=21 cctdlg.cpp:1161
+2017-11-02 14:15:54.521 [8244] LOG_TRACE m_s32_volume=22 cctdlg.cpp:1161
+2017-11-02 14:15:54.555 [8244] LOG_TRACE m_s32_volume=23 cctdlg.cpp:1161
+2017-11-02 14:15:54.681 [8244] LOG_TRACE m_s32_volume=24 cctdlg.cpp:1161
+2017-11-02 14:15:54.689 [8244] LOG_TRACE m_s32_volume=25 cctdlg.cpp:1161
+2017-11-02 14:15:54.697 [8244] LOG_TRACE m_s32_volume=26 cctdlg.cpp:1161
+2017-11-02 14:15:54.826 [8244] LOG_TRACE m_s32_volume=26 cctdlg.cpp:1161
+2017-11-02 14:15:54.827 [8244] LOG_TRACE m_s32_volume=26 cctdlg.cpp:1161
+2017-11-02 14:15:55.201 [8244] LOG_TRACE m_s32_volume=28 cctdlg.cpp:1161
+2017-11-02 14:15:55.219 [8244] LOG_TRACE m_s32_volume=29 cctdlg.cpp:1161
+2017-11-02 14:15:55.228 [8244] LOG_TRACE m_s32_volume=30 cctdlg.cpp:1161
+2017-11-02 14:15:55.243 [8244] LOG_TRACE m_s32_volume=32 cctdlg.cpp:1161
+2017-11-02 14:15:55.251 [8244] LOG_TRACE m_s32_volume=34 cctdlg.cpp:1161
+2017-11-02 14:15:55.259 [8244] LOG_TRACE m_s32_volume=36 cctdlg.cpp:1161
+2017-11-02 14:15:55.279 [8244] LOG_TRACE m_s32_volume=38 cctdlg.cpp:1161
+2017-11-02 14:15:55.285 [8244] LOG_TRACE m_s32_volume=39 cctdlg.cpp:1161
+2017-11-02 14:15:55.294 [8244] LOG_TRACE m_s32_volume=40 cctdlg.cpp:1161
+2017-11-02 14:15:55.301 [8244] LOG_TRACE m_s32_volume=41 cctdlg.cpp:1161
+2017-11-02 14:15:55.309 [8244] LOG_TRACE m_s32_volume=42 cctdlg.cpp:1161
+2017-11-02 14:15:55.317 [8244] LOG_TRACE m_s32_volume=43 cctdlg.cpp:1161
+2017-11-02 14:15:55.333 [8244] LOG_TRACE m_s32_volume=44 cctdlg.cpp:1161
+2017-11-02 14:15:55.343 [8244] LOG_TRACE m_s32_volume=45 cctdlg.cpp:1161
+2017-11-02 14:15:55.351 [8244] LOG_TRACE m_s32_volume=46 cctdlg.cpp:1161
+2017-11-02 14:15:55.359 [8244] LOG_TRACE m_s32_volume=48 cctdlg.cpp:1161
+2017-11-02 14:15:55.367 [8244] LOG_TRACE m_s32_volume=49 cctdlg.cpp:1161
+2017-11-02 14:15:55.375 [8244] LOG_TRACE m_s32_volume=51 cctdlg.cpp:1161
+2017-11-02 14:15:55.385 [8244] LOG_TRACE m_s32_volume=53 cctdlg.cpp:1161
+2017-11-02 14:15:55.393 [8244] LOG_TRACE m_s32_volume=57 cctdlg.cpp:1161
+2017-11-02 14:15:55.401 [8244] LOG_TRACE m_s32_volume=59 cctdlg.cpp:1161
+2017-11-02 14:15:55.409 [8244] LOG_TRACE m_s32_volume=61 cctdlg.cpp:1161
+2017-11-02 14:15:55.417 [8244] LOG_TRACE m_s32_volume=63 cctdlg.cpp:1161
+2017-11-02 14:15:55.427 [8244] LOG_TRACE m_s32_volume=64 cctdlg.cpp:1161
+2017-11-02 14:15:55.543 [8244] LOG_TRACE m_s32_volume=64 cctdlg.cpp:1161
+2017-11-02 14:15:55.543 [8244] LOG_TRACE m_s32_volume=64 cctdlg.cpp:1161
+2017-11-02 14:15:55.855 [8244] LOG_TRACE m_s32_volume=65 cctdlg.cpp:1161
+2017-11-02 14:15:55.873 [8244] LOG_TRACE m_s32_volume=66 cctdlg.cpp:1161
+2017-11-02 14:15:55.881 [8244] LOG_TRACE m_s32_volume=68 cctdlg.cpp:1161
+2017-11-02 14:15:55.890 [8244] LOG_TRACE m_s32_volume=70 cctdlg.cpp:1161
+2017-11-02 14:15:55.898 [8244] LOG_TRACE m_s32_volume=73 cctdlg.cpp:1161
+2017-11-02 14:15:55.905 [8244] LOG_TRACE m_s32_volume=76 cctdlg.cpp:1161
+2017-11-02 14:15:55.915 [8244] LOG_TRACE m_s32_volume=80 cctdlg.cpp:1161
+2017-11-02 14:15:55.923 [8244] LOG_TRACE m_s32_volume=84 cctdlg.cpp:1161
+2017-11-02 14:15:55.931 [8244] LOG_TRACE m_s32_volume=89 cctdlg.cpp:1161
+2017-11-02 14:15:55.939 [8244] LOG_TRACE m_s32_volume=91 cctdlg.cpp:1161
+2017-11-02 14:15:55.947 [8244] LOG_TRACE m_s32_volume=96 cctdlg.cpp:1161
+2017-11-02 14:15:55.955 [8244] LOG_TRACE m_s32_volume=100 cctdlg.cpp:1161
+2017-11-02 14:15:56.273 [8244] LOG_TRACE m_s32_volume=100 cctdlg.cpp:1161
+2017-11-02 14:15:56.274 [8244] LOG_TRACE m_s32_volume=100 cctdlg.cpp:1161
+2017-11-02 14:15:56.274 [8244] LOG_TRACE m_s32_volume=100 cctdlg.cpp:1161
+2017-11-02 14:15:56.569 [8244] LOG_TRACE m_s32_volume=100 cctdlg.cpp:1161
+2017-11-02 14:15:57.077 [8244] LOG_TRACE m_s32_volume=99 cctdlg.cpp:1161
+2017-11-02 14:15:57.093 [8244] LOG_TRACE m_s32_volume=97 cctdlg.cpp:1161
+2017-11-02 14:15:57.107 [8244] LOG_TRACE m_s32_volume=95 cctdlg.cpp:1161
+2017-11-02 14:15:57.112 [8244] LOG_TRACE m_s32_volume=92 cctdlg.cpp:1161
+2017-11-02 14:15:57.122 [8244] LOG_TRACE m_s32_volume=90 cctdlg.cpp:1161
+2017-11-02 14:15:57.128 [8244] LOG_TRACE m_s32_volume=86 cctdlg.cpp:1161
+2017-11-02 14:15:57.135 [8244] LOG_TRACE m_s32_volume=84 cctdlg.cpp:1161
+2017-11-02 14:15:57.145 [8244] LOG_TRACE m_s32_volume=81 cctdlg.cpp:1161
+2017-11-02 14:15:57.153 [8244] LOG_TRACE m_s32_volume=79 cctdlg.cpp:1161
+2017-11-02 14:15:57.161 [8244] LOG_TRACE m_s32_volume=77 cctdlg.cpp:1161
+2017-11-02 14:15:57.169 [8244] LOG_TRACE m_s32_volume=75 cctdlg.cpp:1161
+2017-11-02 14:15:57.178 [8244] LOG_TRACE m_s32_volume=74 cctdlg.cpp:1161
+2017-11-02 14:15:57.185 [8244] LOG_TRACE m_s32_volume=73 cctdlg.cpp:1161
+2017-11-02 14:15:57.195 [8244] LOG_TRACE m_s32_volume=72 cctdlg.cpp:1161
+2017-11-02 14:15:57.215 [8244] LOG_TRACE m_s32_volume=71 cctdlg.cpp:1161
+2017-11-02 14:15:57.355 [8244] LOG_TRACE m_s32_volume=71 cctdlg.cpp:1161
+2017-11-02 14:15:57.355 [8244] LOG_TRACE m_s32_volume=71 cctdlg.cpp:1161
+2017-11-02 14:15:57.647 [8244] LOG_TRACE m_s32_volume=70 cctdlg.cpp:1161
+2017-11-02 14:15:57.657 [8244] LOG_TRACE m_s32_volume=66 cctdlg.cpp:1161
+2017-11-02 14:15:57.665 [8244] LOG_TRACE m_s32_volume=59 cctdlg.cpp:1161
+2017-11-02 14:15:57.673 [8244] LOG_TRACE m_s32_volume=50 cctdlg.cpp:1161
+2017-11-02 14:15:57.681 [8244] LOG_TRACE m_s32_volume=43 cctdlg.cpp:1161
+2017-11-02 14:15:57.689 [8244] LOG_TRACE m_s32_volume=37 cctdlg.cpp:1161
+2017-11-02 14:15:57.697 [8244] LOG_TRACE m_s32_volume=31 cctdlg.cpp:1161
+2017-11-02 14:15:57.707 [8244] LOG_TRACE m_s32_volume=24 cctdlg.cpp:1161
+2017-11-02 14:15:57.715 [8244] LOG_TRACE m_s32_volume=18 cctdlg.cpp:1161
+2017-11-02 14:15:57.723 [8244] LOG_TRACE m_s32_volume=13 cctdlg.cpp:1161
+2017-11-02 14:15:57.731 [8244] LOG_TRACE m_s32_volume=11 cctdlg.cpp:1161
+2017-11-02 14:15:57.897 [8244] LOG_TRACE m_s32_volume=11 cctdlg.cpp:1161
+2017-11-02 14:15:57.897 [8244] LOG_TRACE m_s32_volume=11 cctdlg.cpp:1161
+2017-11-02 14:15:58.223 [8244] LOG_TRACE m_s32_volume=10 cctdlg.cpp:1161
+2017-11-02 14:15:58.231 [8244] LOG_TRACE m_s32_volume=7 cctdlg.cpp:1161
+2017-11-02 14:15:58.239 [8244] LOG_TRACE m_s32_volume=5 cctdlg.cpp:1161
+2017-11-02 14:15:58.249 [8244] LOG_TRACE m_s32_volume=3 cctdlg.cpp:1161
+2017-11-02 14:15:58.258 [8244] LOG_TRACE m_s32_volume=0 cctdlg.cpp:1161
+2017-11-02 14:15:58.493 [8244] LOG_TRACE m_s32_volume=0 cctdlg.cpp:1161
+2017-11-02 14:15:58.494 [8244] LOG_TRACE m_s32_volume=0 cctdlg.cpp:1161
+2017-11-02 14:15:58.494 [8244] LOG_TRACE m_s32_volume=0 cctdlg.cpp:1161
+2017-11-02 14:15:58.701 [8244] LOG_TRACE m_s32_volume=0 cctdlg.cpp:1161
+2017-11-02 14:15:58.726 [8244] LOG_TRACE m_s32_volume=0 cctdlg.cpp:1161
+2017-11-02 14:15:59.187 [8244] LOG_TRACE m_s32_volume=0 cctdlg.cpp:1161

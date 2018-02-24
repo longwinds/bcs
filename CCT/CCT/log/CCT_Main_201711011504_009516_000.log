@@ -1,0 +1,49 @@
+2017-11-01 15:04:23.342 [13116] LOG_ALARM -----------------  log4z thread started!   ---------------------------- log4z.cpp:1924
+2017-11-01 15:04:23.347 [13116] LOG_ALARM logger id=0 key=Main name=Main path=./log/ level=0 display=true log4z.cpp:1934
+2017-11-01 15:04:23.347 [12468] LOG_TRACE stream input *** LOGT LOGT LOGT LOGT ***  cctdlg.cpp:79
+2017-11-01 15:04:23.347 [12468] LOG_DEBUG stream input *** LOGD LOGD LOGD LOGD ***  cctdlg.cpp:80
+2017-11-01 15:04:23.347 [12468] LOG_INFO stream input *** LOGI LOGI LOGI LOGI ***  cctdlg.cpp:81
+2017-11-01 15:04:23.347 [12468] LOG_WARN stream input *** LOGW LOGW LOGW LOGW ***  cctdlg.cpp:82
+2017-11-01 15:04:23.347 [12468] LOG_ERROR stream input *** LOGE LOGE LOGE LOGE ***  cctdlg.cpp:83
+2017-11-01 15:04:23.347 [12468] LOG_ALARM stream input *** LOGA LOGA LOGA LOGA ***  cctdlg.cpp:84
+2017-11-01 15:04:23.347 [12468] LOG_FATAL stream input *** LOGF LOGF LOGF LOGF ***  cctdlg.cpp:85
+2017-11-01 15:04:23.347 [12468] LOG_TRACE format input *** LOGFMTT *** 123456 *** cctdlg.cpp:86
+2017-11-01 15:04:23.347 [12468] LOG_DEBUG format input *** LOGFMTD *** 123456 *** cctdlg.cpp:87
+2017-11-01 15:04:23.347 [12468] LOG_INFO format input *** LOGFMTI *** 123456 *** cctdlg.cpp:88
+2017-11-01 15:04:23.347 [12468] LOG_WARN format input *** LOGFMTW *** 123456 *** cctdlg.cpp:89
+2017-11-01 15:04:23.347 [12468] LOG_ERROR format input *** LOGFMTE *** 123456 *** cctdlg.cpp:90
+2017-11-01 15:04:23.347 [12468] LOG_ALARM format input *** LOGFMTA *** 123456 *** cctdlg.cpp:91
+2017-11-01 15:04:23.347 [12468] LOG_FATAL format input *** LOGFMTF *** 123456 *** cctdlg.cpp:92
+2017-11-01 15:04:23.347 [12468] LOG_ALARM main quit ... cctdlg.cpp:94
+2017-11-01 15:04:23.417 [12468] LOG_TRACE CCCTDlg::udp_client_init cctdlg.cpp:590
+2017-11-01 15:04:23.417 [12580] LOG_TRACE call_dev_mon_thread 
+ devmon.cpp:6
+2017-11-01 15:04:23.417 [12580] LOG_TRACE CDevMon::dev_mon_thread start
+ devmon.cpp:29
+2017-11-01 15:05:44.416 [12468] LOG_TRACE CCCTDlg::OnBnClickedButtonTest cctdlg.cpp:366
+2017-11-01 15:05:44.416 [12468] LOG_TRACE CCCTDlg::initRecord cctdlg.cpp:395
+2017-11-01 15:05:44.426 [12468] LOG_TRACE cap_dev_num=2 cctdlg.cpp:399
+2017-11-01 15:05:44.426 [12468] LOG_INFO CCCTDlg::initRecord, sample=22050, bits=16, ch=2, block=4, bytes_per_sec=88200 cctdlg.cpp:431
+2017-11-01 15:05:44.449 [12468] LOG_TRACE WIM_OPEN cctdlg.cpp:491
+2017-11-01 15:05:49.105 [9508] LOG_TRACE 104466771,cap len=1280 cctdlg.cpp:539
+2017-11-01 15:05:52.300 [12468] LOG_TRACE CCCTDlg::OnBnClickedButtonTest cctdlg.cpp:366
+2017-11-01 15:05:52.300 [12468] LOG_TRACE CCCTDlg::stopRecord cctdlg.cpp:562
+2017-11-01 15:05:52.436 [12468] LOG_TRACE WIM_CLOSE cctdlg.cpp:551
+2017-11-01 15:05:52.437 [12468] LOG_TRACE wav in close ok cctdlg.cpp:570
+2017-11-01 15:05:53.146 [12468] LOG_TRACE CCCTDlg::OnBnClickedButtonTest cctdlg.cpp:366
+2017-11-01 15:05:53.146 [12468] LOG_TRACE CCCTDlg::initRecord cctdlg.cpp:395
+2017-11-01 15:05:53.146 [12468] LOG_TRACE cap_dev_num=2 cctdlg.cpp:399
+2017-11-01 15:05:53.146 [12468] LOG_INFO CCCTDlg::initRecord, sample=22050, bits=16, ch=2, block=4, bytes_per_sec=88200 cctdlg.cpp:431
+2017-11-01 15:05:53.167 [12468] LOG_TRACE WIM_OPEN cctdlg.cpp:491
+2017-11-01 15:05:57.823 [8788] LOG_TRACE 104475491,cap len=1280 cctdlg.cpp:539
+2017-11-01 15:06:02.464 [8788] LOG_TRACE 104480140,cap len=1280 cctdlg.cpp:539
+2017-11-01 15:06:07.114 [8788] LOG_TRACE 104484789,cap len=1280 cctdlg.cpp:539
+2017-11-01 15:06:11.754 [8788] LOG_TRACE 104489422,cap len=1280 cctdlg.cpp:539
+2017-11-01 15:06:16.405 [8788] LOG_TRACE 104494071,cap len=1280 cctdlg.cpp:539
+2017-11-01 15:06:21.044 [8788] LOG_TRACE 104498720,cap len=1280 cctdlg.cpp:539
+2017-11-01 15:06:25.684 [8788] LOG_TRACE 104503353,cap len=1280 cctdlg.cpp:539
+2017-11-01 15:06:30.333 [8788] LOG_TRACE 104508002,cap len=1280 cctdlg.cpp:539
+2017-11-01 15:06:34.974 [8788] LOG_TRACE 104512651,cap len=1280 cctdlg.cpp:539
+2017-11-01 15:06:39.624 [8788] LOG_TRACE 104517300,cap len=1280 cctdlg.cpp:539
+2017-11-01 15:06:44.263 [8788] LOG_TRACE 104521933,cap len=1280 cctdlg.cpp:539
+2017-11-01 15:06:48.903 [8788] LOG_TRACE 104526566,cap len=1280 cctdlg.cpp:539

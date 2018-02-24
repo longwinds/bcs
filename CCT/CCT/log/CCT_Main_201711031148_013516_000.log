@@ -1,0 +1,920 @@
+2017-11-03 11:48:39.875 [11784] LOG_ALARM -----------------  log4z thread started!   ---------------------------- log4z.cpp:1924
+2017-11-03 11:48:39.879 [11784] LOG_ALARM logger id=0 key=Main name=Main path=./log/ level=0 display=true log4z.cpp:1934
+2017-11-03 11:48:39.880 [9404] LOG_TRACE stream input *** LOGT LOGT LOGT LOGT ***  cctdlg.cpp:80
+2017-11-03 11:48:39.880 [9404] LOG_DEBUG stream input *** LOGD LOGD LOGD LOGD ***  cctdlg.cpp:81
+2017-11-03 11:48:39.880 [9404] LOG_INFO stream input *** LOGI LOGI LOGI LOGI ***  cctdlg.cpp:82
+2017-11-03 11:48:39.880 [9404] LOG_WARN stream input *** LOGW LOGW LOGW LOGW ***  cctdlg.cpp:83
+2017-11-03 11:48:39.880 [9404] LOG_ERROR stream input *** LOGE LOGE LOGE LOGE ***  cctdlg.cpp:84
+2017-11-03 11:48:39.880 [9404] LOG_ALARM stream input *** LOGA LOGA LOGA LOGA ***  cctdlg.cpp:85
+2017-11-03 11:48:39.880 [9404] LOG_FATAL stream input *** LOGF LOGF LOGF LOGF ***  cctdlg.cpp:86
+2017-11-03 11:48:39.880 [9404] LOG_TRACE format input *** LOGFMTT *** 123456 *** cctdlg.cpp:87
+2017-11-03 11:48:39.880 [9404] LOG_DEBUG format input *** LOGFMTD *** 123456 *** cctdlg.cpp:88
+2017-11-03 11:48:39.880 [9404] LOG_INFO format input *** LOGFMTI *** 123456 *** cctdlg.cpp:89
+2017-11-03 11:48:39.880 [9404] LOG_WARN format input *** LOGFMTW *** 123456 *** cctdlg.cpp:90
+2017-11-03 11:48:39.880 [9404] LOG_ERROR format input *** LOGFMTE *** 123456 *** cctdlg.cpp:91
+2017-11-03 11:48:39.880 [9404] LOG_ALARM format input *** LOGFMTA *** 123456 *** cctdlg.cpp:92
+2017-11-03 11:48:39.880 [9404] LOG_FATAL format input *** LOGFMTF *** 123456 *** cctdlg.cpp:93
+2017-11-03 11:48:39.880 [9404] LOG_ALARM main quit ... cctdlg.cpp:95
+2017-11-03 11:48:39.970 [9404] LOG_TRACE CCCTDlg::udp_client_init cctdlg.cpp:611
+2017-11-03 11:48:39.970 [10016] LOG_TRACE call_dev_mon_thread 
+ devmon.cpp:6
+2017-11-03 11:48:39.970 [10016] LOG_TRACE CDevMon::dev_mon_thread start
+ devmon.cpp:29
+2017-11-03 11:48:39.972 [10016] LOG_TRACE rcv[23]:{DEV_ID:1},{LOST:0.00%} devmon.cpp:53
+2017-11-03 11:48:39.972 [10016] LOG_TRACE DEV[1] online devmon.cpp:64
+2017-11-03 11:48:40.121 [9404] LOG_TRACE m_s32_volume=50 cctdlg.cpp:1177
+2017-11-03 11:48:43.560 [9404] LOG_TRACE CCCTDlg::stopRecord cctdlg.cpp:583
+2017-11-03 11:48:43.576 [9404] LOG_INFO wav in close err:5 cctdlg.cpp:593
+2017-11-03 11:48:44.973 [10016] LOG_TRACE rcv[23]:{DEV_ID:1},{LOST:0.00%} devmon.cpp:53
+2017-11-03 11:48:49.976 [10016] LOG_TRACE rcv[24]:{DEV_ID:1},{LOST:42.25%} devmon.cpp:53
+2017-11-03 11:48:54.980 [10016] LOG_TRACE rcv[23]:{DEV_ID:1},{LOST:0.00%} devmon.cpp:53
+2017-11-03 11:48:59.982 [10016] LOG_TRACE rcv[23]:{DEV_ID:1},{LOST:0.00%} devmon.cpp:53
+2017-11-03 11:49:00.463 [9404] LOG_TRACE CCCTDlg::OnBnClickedCheckAll 1 cctdlg.cpp:886
+2017-11-03 11:49:00.463 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=1, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.463 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=2, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.463 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=3, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.463 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=4, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.463 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=5, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.463 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=6, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.463 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=7, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.463 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=8, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.463 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=9, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.463 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=10, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.463 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=11, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.463 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=12, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.463 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=13, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.463 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=14, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.463 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=15, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.463 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=16, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.463 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=17, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.463 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=18, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.463 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=19, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.463 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=20, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.463 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=21, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.463 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=22, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.463 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=23, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.463 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=24, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.463 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=25, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.463 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=26, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.463 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=27, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.463 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=28, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.463 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=29, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.463 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=30, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.463 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=31, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.463 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=32, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.463 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=33, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.463 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=34, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.463 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=35, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.463 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=36, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.463 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=37, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.463 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=38, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.463 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=39, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.463 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=40, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.463 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=41, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.463 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=42, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.463 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=43, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.463 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=44, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.463 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=45, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.463 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=46, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.463 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=47, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.463 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=48, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.463 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=49, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.463 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=50, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.463 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=51, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.463 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=52, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.463 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=53, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.463 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=54, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.463 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=55, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.463 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=56, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.463 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=57, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.463 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=58, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.463 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=59, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.463 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=60, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.463 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=61, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=62, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=63, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=64, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=65, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=66, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=67, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=68, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=69, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=70, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=71, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=72, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=73, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=74, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=75, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=76, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=77, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=78, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=79, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=80, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=81, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=82, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=83, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=84, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=85, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=86, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=87, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=88, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=89, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=90, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=91, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=92, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=93, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=94, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=95, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=96, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=97, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=98, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=99, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=100, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=101, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=102, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=103, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=104, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=105, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=106, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=107, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=108, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=109, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=110, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=111, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=112, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=113, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=114, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=115, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=116, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=117, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=118, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=119, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=120, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=121, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=122, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=123, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=124, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=125, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=126, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=127, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=128, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=129, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=130, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=131, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=132, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=133, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=134, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=135, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=136, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.464 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=137, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=138, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=139, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=140, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=141, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=142, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=143, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=144, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=145, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=146, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=147, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=148, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=149, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=150, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=151, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=152, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=153, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=154, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=155, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=156, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=157, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=158, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=159, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=160, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=161, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=162, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=163, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=164, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=165, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=166, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=167, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=168, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=169, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=170, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=171, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=172, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=173, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=174, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=175, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=176, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=177, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=178, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=179, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=180, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=181, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=182, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=183, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=184, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=185, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=186, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=187, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=188, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=189, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=190, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=191, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=192, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=193, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=194, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=195, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=196, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=197, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=198, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=199, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=200, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=201, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=202, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=203, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=204, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=205, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=206, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=207, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=208, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=209, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=210, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=211, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.465 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=212, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.466 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=213, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.466 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=214, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.466 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=215, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.466 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=216, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.466 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=217, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.466 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=218, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.466 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=219, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.466 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=220, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.466 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=221, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.466 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=222, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.466 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=223, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.466 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=224, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.466 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=225, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.466 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=226, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.466 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=227, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.466 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=228, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.466 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=229, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.466 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=230, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.466 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=231, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.466 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=232, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.466 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=233, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.466 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=234, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.466 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=235, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.466 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=236, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.466 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=237, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.466 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=238, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.466 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=239, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.466 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=240, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.466 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=241, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.466 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=242, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.466 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=243, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.466 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=244, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.466 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=245, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.466 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=246, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.466 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=247, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.466 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=248, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.466 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=249, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.466 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=250, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.466 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=251, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.466 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=252, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.466 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=253, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.466 [9404] LOG_TRACE CCCTDlg::set_speaker, spk=254, onoff=1 cctdlg.cpp:640
+2017-11-03 11:49:00.809 [9404] LOG_TRACE m_s32_volume=50 cctdlg.cpp:1177
+2017-11-03 11:49:00.815 [9404] LOG_TRACE m_s32_volume=50 cctdlg.cpp:1177
+2017-11-03 11:49:04.986 [10016] LOG_TRACE rcv[23]:{DEV_ID:1},{LOST:0.00%} devmon.cpp:53
+2017-11-03 11:49:09.988 [10016] LOG_TRACE rcv[23]:{DEV_ID:1},{LOST:0.00%} devmon.cpp:53
+2017-11-03 11:49:14.992 [10016] LOG_TRACE rcv[23]:{DEV_ID:1},{LOST:0.00%} devmon.cpp:53
+2017-11-03 11:49:19.994 [10016] LOG_TRACE rcv[23]:{DEV_ID:1},{LOST:0.00%} devmon.cpp:53
+2017-11-03 11:49:24.997 [10016] LOG_TRACE rcv[23]:{DEV_ID:1},{LOST:0.00%} devmon.cpp:53
+2017-11-03 11:49:30.000 [10016] LOG_TRACE rcv[23]:{DEV_ID:1},{LOST:0.00%} devmon.cpp:53
+2017-11-03 11:49:35.003 [10016] LOG_TRACE rcv[23]:{DEV_ID:1},{LOST:0.00%} devmon.cpp:53
+2017-11-03 11:49:40.005 [10016] LOG_TRACE rcv[23]:{DEV_ID:1},{LOST:0.00%} devmon.cpp:53
+2017-11-03 11:49:45.008 [10016] LOG_TRACE rcv[23]:{DEV_ID:1},{LOST:0.00%} devmon.cpp:53
+2017-11-03 11:49:50.011 [10016] LOG_TRACE rcv[23]:{DEV_ID:1},{LOST:0.00%} devmon.cpp:53
+2017-11-03 11:49:55.014 [10016] LOG_TRACE rcv[23]:{DEV_ID:1},{LOST:0.00%} devmon.cpp:53
+2017-11-03 11:50:00.016 [10016] LOG_TRACE rcv[23]:{DEV_ID:1},{LOST:0.00%} devmon.cpp:53
+2017-11-03 11:50:05.020 [10016] LOG_TRACE rcv[23]:{DEV_ID:1},{LOST:0.00%} devmon.cpp:53
+2017-11-03 11:50:10.022 [10016] LOG_TRACE rcv[23]:{DEV_ID:1},{LOST:0.00%} devmon.cpp:53
+2017-11-03 11:50:15.025 [10016] LOG_TRACE rcv[23]:{DEV_ID:1},{LOST:0.00%} devmon.cpp:53
+2017-11-03 11:50:30.527 [10016] LOG_TRACE rcv[24]:{DEV_ID:1},{LOST:17.02%} devmon.cpp:53
+2017-11-03 11:50:35.528 [10016] LOG_TRACE rcv[23]:{DEV_ID:1},{LOST:0.00%} devmon.cpp:53
+2017-11-03 11:50:40.530 [10016] LOG_TRACE rcv[23]:{DEV_ID:1},{LOST:0.00%} devmon.cpp:53
+2017-11-03 11:51:43.533 [10016] LOG_TRACE DEV[1] Offline devmon.cpp:76
+2017-11-03 11:52:28.136 [9844] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 11:52:28.136 [9844] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 11:52:33.139 [9844] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 11:52:33.139 [9844] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 11:52:38.141 [9844] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 11:52:38.141 [9844] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 11:56:18.033 [9844] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 11:56:18.033 [9844] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 11:56:23.036 [9844] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 11:56:23.036 [9844] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 11:56:28.038 [10384] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 11:56:28.038 [10384] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 12:00:07.943 [9844] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 12:00:07.943 [9844] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 12:00:12.946 [9844] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 12:00:12.946 [9844] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 12:00:17.949 [10384] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 12:00:17.949 [10384] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 12:03:57.857 [10384] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 12:03:57.857 [10384] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 12:04:02.860 [10384] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 12:04:02.860 [10384] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 12:04:07.863 [9844] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 12:04:07.863 [9844] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 12:07:47.765 [10384] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 12:07:47.765 [10384] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 12:07:52.769 [10384] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 12:07:52.769 [10384] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 12:07:57.771 [10384] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 12:07:57.771 [10384] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 12:11:37.676 [9844] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 12:11:37.676 [9844] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 12:11:42.680 [10384] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 12:11:42.680 [10384] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 12:11:47.683 [10384] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 12:11:47.683 [10384] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 12:15:27.588 [10384] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 12:15:27.588 [10384] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 12:15:32.592 [9844] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 12:15:32.592 [9844] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 12:15:37.594 [10384] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 12:15:37.594 [10384] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 12:19:17.494 [9844] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 12:19:17.494 [9844] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 12:19:22.497 [10384] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 12:19:22.497 [10384] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 12:19:27.500 [9844] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 12:19:27.500 [9844] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 12:23:07.399 [9844] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 12:23:07.399 [9844] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 12:23:12.403 [9844] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 12:23:12.403 [9844] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 12:23:17.405 [9844] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 12:23:17.405 [9844] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 12:26:57.309 [10384] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 12:26:57.309 [10384] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 12:27:02.312 [9844] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 12:27:02.312 [9844] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 12:27:07.317 [9844] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 12:27:07.317 [9844] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 12:30:47.222 [9844] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 12:30:47.222 [9844] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 12:30:52.225 [10384] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 12:30:52.225 [10384] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 12:30:57.228 [9844] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 12:30:57.228 [9844] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 12:34:37.123 [10384] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 12:34:37.123 [10384] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 12:34:42.127 [9844] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 12:34:42.127 [9844] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 12:34:47.129 [9844] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 12:34:47.129 [9844] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 12:38:27.037 [10384] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 12:38:27.037 [10384] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 12:38:32.042 [10384] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 12:38:32.042 [10384] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 12:38:37.044 [9844] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 12:38:37.044 [9844] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 12:42:16.953 [10384] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 12:42:16.953 [10384] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 12:42:21.956 [9844] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 12:42:21.956 [9844] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 12:42:26.958 [10384] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 12:42:26.958 [10384] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 12:46:06.864 [10384] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 12:46:06.864 [10384] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 12:46:11.867 [10384] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 12:46:11.867 [10384] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 12:46:16.869 [9844] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 12:46:16.869 [9844] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 12:49:56.764 [10384] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 12:49:56.764 [10384] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 12:50:01.767 [10384] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 12:50:01.767 [10384] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 12:50:06.771 [10384] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 12:50:06.771 [10384] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 12:53:46.671 [10384] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 12:53:46.671 [10384] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 12:53:51.676 [10384] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 12:53:51.676 [10384] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 12:53:56.679 [10384] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 12:53:56.679 [10384] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 12:57:36.588 [10384] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 12:57:36.588 [10384] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 12:57:41.592 [9844] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 12:57:41.592 [9844] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 12:57:46.595 [10384] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 12:57:46.595 [10384] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 13:01:26.498 [9844] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 13:01:26.498 [9844] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 13:01:31.502 [10384] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 13:01:31.502 [10384] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 13:01:36.504 [9844] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 13:01:36.504 [9844] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 13:05:16.407 [10384] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 13:05:16.407 [10384] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 13:05:21.410 [10384] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 13:05:21.410 [10384] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 13:05:26.414 [10384] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 13:05:26.414 [10384] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 13:09:06.324 [9844] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 13:09:06.324 [9844] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 13:09:11.327 [13816] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 13:09:11.327 [13816] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 13:09:16.330 [13816] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 13:09:16.330 [13816] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 13:12:56.246 [9844] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 13:12:56.246 [9844] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 13:13:01.249 [9844] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 13:13:01.249 [9844] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 13:13:06.251 [13816] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 13:13:06.251 [13816] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 13:16:46.151 [9844] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 13:16:46.151 [9844] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 13:16:51.154 [13816] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 13:16:51.154 [13816] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 13:16:56.158 [9844] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 13:16:56.158 [9844] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 13:20:36.061 [9844] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 13:20:36.061 [9844] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 13:20:41.064 [13816] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 13:20:41.064 [13816] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 13:20:46.067 [9844] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 13:20:46.067 [9844] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 13:24:25.970 [9844] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 13:24:25.970 [9844] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 13:24:30.974 [13816] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 13:24:30.974 [13816] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 13:24:35.976 [13816] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 13:24:35.976 [13816] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 13:28:15.879 [9844] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 13:28:15.879 [9844] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 13:28:20.883 [9844] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 13:28:20.883 [9844] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 13:28:25.885 [13816] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 13:28:25.885 [13816] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 13:32:05.794 [10320] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 13:32:05.794 [10320] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 13:32:10.797 [10320] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 13:32:10.797 [10320] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 13:32:15.799 [13816] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 13:32:15.799 [13816] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 13:35:55.698 [10320] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 13:35:55.698 [10320] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 13:36:00.701 [13816] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 13:36:00.701 [13816] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 13:36:05.703 [10320] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 13:36:05.703 [10320] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 13:39:45.600 [13816] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 13:39:45.600 [13816] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 13:39:50.603 [10320] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 13:39:50.603 [10320] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 13:39:55.605 [13816] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 13:39:55.605 [13816] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 13:43:35.510 [10320] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 13:43:35.510 [10320] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 13:43:40.514 [13816] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 13:43:40.514 [13816] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 13:43:45.517 [10320] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 13:43:45.517 [10320] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 13:47:25.474 [10320] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 13:47:25.474 [10320] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 13:47:30.478 [10320] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 13:47:30.478 [10320] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 13:47:35.481 [13816] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 13:47:35.481 [13816] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 13:51:15.384 [13816] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 13:51:15.384 [13816] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 13:51:20.389 [13816] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 13:51:20.389 [13816] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 13:51:25.391 [10320] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 13:51:25.391 [10320] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 13:55:05.291 [13816] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 13:55:05.291 [13816] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 13:55:10.295 [13816] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 13:55:10.295 [13816] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 13:55:15.297 [13816] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 13:55:15.297 [13816] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 13:58:55.205 [10320] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 13:58:55.205 [10320] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 13:59:00.208 [13816] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 13:59:00.208 [13816] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 13:59:05.210 [10320] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 13:59:05.210 [10320] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 14:02:45.115 [10320] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 14:02:45.115 [10320] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 14:02:50.118 [13816] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 14:02:50.118 [13816] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 14:02:55.120 [10320] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 14:02:55.120 [10320] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 14:06:35.023 [13816] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 14:06:35.023 [13816] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 14:06:40.027 [10320] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 14:06:40.027 [10320] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 14:06:45.030 [10320] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 14:06:45.030 [10320] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 14:10:24.936 [10320] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 14:10:24.936 [10320] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 14:10:29.939 [10320] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 14:10:29.939 [10320] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 14:10:34.942 [10320] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 14:10:34.942 [10320] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 14:14:14.845 [10320] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 14:14:14.845 [10320] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 14:14:19.850 [10320] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 14:14:19.850 [10320] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 14:14:24.852 [13816] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 14:14:24.852 [13816] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 14:18:04.751 [10320] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 14:18:04.751 [10320] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 14:18:09.755 [13816] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 14:18:09.755 [13816] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 14:18:14.757 [13816] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 14:18:14.757 [13816] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 14:21:54.659 [10320] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 14:21:54.659 [10320] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 14:21:59.662 [13816] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 14:21:59.662 [13816] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 14:22:04.664 [13816] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 14:22:04.664 [13816] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 14:25:44.569 [10320] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 14:25:44.569 [10320] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 14:25:49.572 [10320] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 14:25:49.572 [10320] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 14:25:54.576 [13816] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 14:25:54.576 [13816] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 14:29:34.481 [13816] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 14:29:34.481 [13816] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 14:29:39.485 [13816] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 14:29:39.485 [13816] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 14:29:44.487 [10320] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 14:29:44.487 [10320] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 14:33:24.398 [13816] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 14:33:24.398 [13816] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 14:33:29.401 [10320] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 14:33:29.401 [10320] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 14:33:34.404 [13816] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 14:33:34.404 [13816] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 14:37:14.301 [10320] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 14:37:14.301 [10320] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 14:37:19.305 [10320] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 14:37:19.305 [10320] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 14:37:24.308 [13816] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 14:37:24.308 [13816] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 14:41:04.214 [10320] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 14:41:04.214 [10320] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 14:41:09.218 [10320] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 14:41:09.218 [10320] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 14:41:14.223 [13816] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 14:41:14.223 [13816] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 14:44:54.140 [10320] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 14:44:54.140 [10320] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 14:44:59.145 [13816] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 14:44:59.145 [13816] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 14:45:04.148 [10320] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 14:45:04.148 [10320] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 14:48:44.055 [10320] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 14:48:44.055 [10320] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 14:48:49.058 [10320] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 14:48:49.058 [10320] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 14:48:54.060 [10320] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 14:48:54.060 [10320] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 14:52:33.984 [10320] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 14:52:33.984 [10320] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 14:52:38.987 [8724] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 14:52:38.987 [8724] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 14:52:44.001 [8724] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 14:52:44.001 [8724] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 14:56:23.919 [10320] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 14:56:23.919 [10320] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 14:56:28.922 [8724] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 14:56:28.922 [8724] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 14:56:33.924 [8724] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 14:56:33.924 [8724] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 15:00:13.870 [8724] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 15:00:13.870 [8724] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 15:00:18.873 [8724] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 15:00:18.873 [8724] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 15:00:23.877 [8724] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 15:00:23.877 [8724] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 15:04:03.791 [10320] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 15:04:03.791 [10320] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 15:04:08.794 [10320] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 15:04:08.794 [10320] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 15:04:13.797 [10320] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 15:04:13.797 [10320] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 15:07:53.720 [8724] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 15:07:53.720 [8724] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 15:07:58.737 [10320] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 15:07:58.737 [10320] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 15:08:03.739 [10320] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 15:08:03.739 [10320] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 15:11:43.655 [8724] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 15:11:43.655 [8724] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 15:11:48.659 [10320] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 15:11:48.659 [10320] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 15:11:53.661 [8724] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 15:11:53.661 [8724] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 15:12:37.843 [9404] LOG_TRACE m_s32_volume=50 cctdlg.cpp:1177
+2017-11-03 15:15:33.561 [8724] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 15:15:33.561 [8724] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 15:15:38.564 [10320] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 15:15:38.564 [10320] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 15:15:43.566 [8724] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 15:15:43.566 [8724] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 15:19:23.477 [10320] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 15:19:23.477 [10320] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 15:19:28.480 [10320] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 15:19:28.480 [10320] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 15:19:33.483 [10320] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 15:19:33.483 [10320] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 15:23:13.406 [8724] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 15:23:13.406 [8724] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 15:23:18.410 [10320] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 15:23:18.410 [10320] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 15:23:23.413 [10320] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 15:23:23.413 [10320] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 15:27:03.332 [8724] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 15:27:03.332 [8724] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 15:27:08.335 [8724] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 15:27:08.335 [8724] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 15:27:13.338 [10320] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 15:27:13.338 [10320] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 15:30:53.245 [8724] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 15:30:53.245 [8724] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 15:30:58.249 [8724] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 15:30:58.249 [8724] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 15:31:03.251 [8724] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 15:31:03.251 [8724] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 15:34:43.154 [8724] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 15:34:43.154 [8724] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 15:34:48.158 [10320] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 15:34:48.158 [10320] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 15:34:53.160 [10320] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 15:34:53.160 [10320] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 15:38:33.079 [10320] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 15:38:33.079 [10320] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 15:38:38.082 [8724] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 15:38:38.082 [8724] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 15:38:43.084 [10320] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 15:38:43.084 [10320] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 15:42:22.992 [10320] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 15:42:22.992 [10320] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 15:42:27.996 [10320] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 15:42:27.996 [10320] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 15:42:33.000 [10320] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 15:42:33.000 [10320] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 15:46:12.919 [10320] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 15:46:12.919 [10320] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 15:46:17.922 [10320] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 15:46:17.922 [10320] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 15:46:22.924 [10320] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 15:46:22.924 [10320] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 15:50:02.825 [8724] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 15:50:02.825 [8724] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 15:50:07.829 [8724] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 15:50:07.829 [8724] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 15:50:12.833 [8724] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 15:50:12.833 [8724] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 15:53:52.747 [10320] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 15:53:52.747 [10320] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 15:53:57.750 [10320] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 15:53:57.750 [10320] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 15:54:02.754 [10320] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 15:54:02.754 [10320] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 15:57:42.660 [8724] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 15:57:42.660 [8724] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 15:57:47.664 [8724] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 15:57:47.664 [8724] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 15:57:52.666 [10320] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 15:57:52.666 [10320] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 16:01:32.565 [8724] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 16:01:32.565 [8724] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 16:01:37.570 [10320] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 16:01:37.570 [10320] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 16:01:42.572 [10320] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 16:01:42.572 [10320] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 16:05:22.472 [10320] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 16:05:22.472 [10320] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 16:05:27.475 [10320] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 16:05:27.475 [10320] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 16:05:32.477 [10320] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 16:05:32.477 [10320] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 16:09:12.381 [10320] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 16:09:12.381 [10320] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 16:09:17.384 [8724] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 16:09:17.384 [8724] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 16:09:22.386 [10320] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 16:09:22.386 [10320] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 16:13:02.294 [8724] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 16:13:02.294 [8724] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 16:13:07.298 [8724] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 16:13:07.298 [8724] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 16:13:12.301 [10320] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 16:13:12.301 [10320] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 16:16:52.218 [10320] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 16:16:52.218 [10320] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 16:16:57.221 [8724] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 16:16:57.221 [8724] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 16:17:02.224 [10320] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 16:17:02.224 [10320] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 16:20:42.137 [8724] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 16:20:42.137 [8724] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 16:20:47.141 [10320] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 16:20:47.141 [10320] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 16:20:52.144 [10320] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 16:20:52.144 [10320] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 16:24:32.049 [8724] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 16:24:32.049 [8724] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 16:24:37.054 [10320] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 16:24:37.054 [10320] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 16:24:42.056 [10320] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 16:24:42.056 [10320] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 16:28:21.961 [8724] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 16:28:21.961 [8724] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 16:28:26.965 [8724] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 16:28:26.965 [8724] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 16:28:31.967 [8724] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 16:28:31.967 [8724] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 16:32:11.881 [10320] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 16:32:11.881 [10320] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 16:32:16.884 [10320] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 16:32:16.884 [10320] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 16:32:21.886 [10320] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 16:32:21.886 [10320] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 16:36:01.796 [10320] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 16:36:01.796 [10320] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 16:36:06.800 [8724] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 16:36:06.800 [8724] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 16:36:11.803 [8724] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 16:36:11.803 [8724] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 16:39:51.705 [10320] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 16:39:51.705 [10320] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 16:39:56.708 [10320] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 16:39:56.708 [10320] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 16:40:01.711 [10320] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 16:40:01.711 [10320] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 16:43:41.625 [8724] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 16:43:41.625 [8724] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 16:43:46.628 [10320] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 16:43:46.628 [10320] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 16:43:51.631 [8724] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 16:43:51.631 [8724] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 16:47:31.587 [8724] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 16:47:31.587 [8724] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 16:47:36.594 [10320] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 16:47:36.594 [10320] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 16:47:41.596 [10320] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 16:47:41.596 [10320] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 16:51:21.511 [8724] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 16:51:21.511 [8724] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 16:51:26.516 [10212] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 16:51:26.516 [10212] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 16:51:31.521 [10212] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 16:51:31.521 [10212] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 16:55:11.432 [8724] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 16:55:11.432 [8724] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 16:55:16.437 [8724] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 16:55:16.437 [8724] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 16:55:21.439 [10212] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 16:55:21.439 [10212] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 16:59:01.346 [10212] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 16:59:01.346 [10212] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 16:59:06.349 [10212] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 16:59:06.349 [10212] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 16:59:11.352 [8724] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 16:59:11.352 [8724] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 17:02:51.265 [10212] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 17:02:51.265 [10212] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 17:02:56.268 [10212] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 17:02:56.268 [10212] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 17:03:01.270 [8724] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 17:03:01.270 [8724] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 17:06:41.173 [10212] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 17:06:41.173 [10212] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 17:06:46.177 [10212] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 17:06:46.177 [10212] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 17:06:51.180 [10212] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 17:06:51.180 [10212] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 17:10:31.088 [10212] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 17:10:31.088 [10212] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 17:10:36.091 [8724] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 17:10:36.091 [8724] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 17:10:41.094 [8724] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 17:10:41.094 [8724] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 17:14:21.011 [10212] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 17:14:21.011 [10212] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 17:14:26.015 [10212] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 17:14:26.015 [10212] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 17:14:31.019 [8724] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 17:14:31.019 [8724] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 17:18:10.932 [10212] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 17:18:10.932 [10212] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 17:18:15.936 [10212] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 17:18:15.936 [10212] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 17:18:20.938 [8724] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 17:18:20.938 [8724] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 17:22:00.854 [10212] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 17:22:00.854 [10212] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 17:22:05.857 [8724] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 17:22:05.857 [8724] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 17:22:10.859 [10212] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 17:22:10.859 [10212] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 17:25:50.767 [10212] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 17:25:50.767 [10212] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 17:25:55.771 [8724] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 17:25:55.771 [8724] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 17:26:00.780 [10212] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 17:26:00.780 [10212] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 17:29:40.685 [8724] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 17:29:40.685 [8724] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 17:29:45.688 [8724] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 17:29:45.688 [8724] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 17:29:50.691 [10212] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 17:29:50.691 [10212] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 17:33:30.603 [10212] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 17:33:30.603 [10212] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 17:33:35.606 [10212] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 17:33:35.606 [10212] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 17:33:40.609 [10212] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 17:33:40.609 [10212] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 17:37:20.515 [8724] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 17:37:20.515 [8724] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 17:37:25.519 [10212] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 17:37:25.519 [10212] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 17:37:30.521 [8724] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 17:37:30.521 [8724] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 17:41:10.426 [10212] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 17:41:10.426 [10212] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 17:41:15.436 [10212] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 17:41:15.436 [10212] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 17:41:20.438 [8724] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 17:41:20.438 [8724] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 17:45:00.373 [8724] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 17:45:00.373 [8724] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 17:45:05.376 [8724] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 17:45:05.376 [8724] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 17:45:10.379 [8200] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 17:45:10.379 [8200] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 17:48:50.347 [8200] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 17:48:50.347 [8200] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 17:48:55.350 [8724] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 17:48:55.350 [8724] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 17:49:00.352 [8200] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 17:49:00.352 [8200] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 17:52:40.257 [8200] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 17:52:40.257 [8200] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 17:52:45.262 [8200] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 17:52:45.262 [8200] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 17:52:50.265 [8724] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 17:52:50.265 [8724] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 17:56:30.180 [8724] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 17:56:30.180 [8724] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 17:56:35.184 [8724] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 17:56:35.184 [8724] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 17:56:40.187 [8200] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 17:56:40.187 [8200] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 18:00:20.096 [8200] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 18:00:20.096 [8200] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 18:00:25.100 [8200] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 18:00:25.100 [8200] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 18:00:30.103 [8724] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 18:00:30.103 [8724] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 18:04:10.019 [8200] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 18:04:10.019 [8200] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 18:04:15.025 [8724] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 18:04:15.025 [8724] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 18:04:20.027 [8724] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 18:04:20.027 [8724] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 18:07:59.935 [8724] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 18:07:59.935 [8724] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 18:08:04.939 [8724] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 18:08:04.939 [8724] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 18:08:09.941 [8724] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 18:08:09.941 [8724] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 18:11:49.865 [8724] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 18:11:49.865 [8724] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 18:11:54.868 [8724] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 18:11:54.868 [8724] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 18:11:59.871 [8724] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 18:11:59.871 [8724] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 18:15:39.770 [8200] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 18:15:39.770 [8200] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 18:15:44.773 [8200] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 18:15:44.773 [8200] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 18:15:49.775 [8724] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 18:15:49.775 [8724] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-03 18:19:29.686 [8200] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-03 18:19:29.686 [8200] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-03 18:19:34.689 [8200] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-03 18:19:34.689 [8200] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-03 18:19:39.691 [8200] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-03 18:19:39.691 [8200] LOG_TRACE play file change to  0 cctdlg.cpp:1038

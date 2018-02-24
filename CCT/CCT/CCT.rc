@@ -1,0 +1,323 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#ifndef APSTUDIO_INVOKED
+#include "targetver.h"
+#endif
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// 中文(中华人民共和国) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+#ifdef _WIN32
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SIMPLIFIED
+#pragma code_page(936)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#ifndef APSTUDIO_INVOKED\r\n"
+    "#include ""targetver.h""\r\n"
+    "#endif\r\n"
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "#define _AFX_NO_SPLITTER_RESOURCES\r\n"
+    "#define _AFX_NO_OLE_RESOURCES\r\n"
+    "#define _AFX_NO_TRACKER_RESOURCES\r\n"
+    "#define _AFX_NO_PROPERTY_RESOURCES\r\n"
+    "\r\n"
+    "#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)\r\n"
+    "LANGUAGE 4, 2\r\n"
+    "#pragma code_page(936)\r\n"
+    "#include ""res\\CCT.rc2""  // 非 Microsoft Visual C++ 编辑的资源\r\n"
+    "#include ""l.CHS\\afxres.rc""      // 标准组件\r\n"
+    "#endif\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDR_MAINFRAME           ICON                    "res\\CCT.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_ABOUTBOX DIALOGEX 0, 0, 170, 62
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "关于 CCT"
+FONT 9, "MS Shell Dlg", 0, 0, 0x1
+BEGIN
+    ICON            IDR_MAINFRAME,IDC_STATIC,14,14,21,20
+    LTEXT           "CCT，1.0 版",IDC_STATIC,42,14,114,8,SS_NOPREFIX
+    LTEXT           "Copyright (C) 2017",IDC_STATIC,42,26,114,8
+    DEFPUSHBUTTON   "确定",IDOK,113,41,50,14,WS_GROUP
+END
+
+IDD_CCT_DIALOG DIALOGEX 0, 0, 659, 293
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_VISIBLE | WS_CAPTION | WS_SYSMENU
+EXSTYLE WS_EX_APPWINDOW
+CAPTION "CCT"
+FONT 9, "MS Shell Dlg", 0, 0, 0x1
+BEGIN
+    DEFPUSHBUTTON   "退出",IDOK,602,7,50,26
+    CTEXT           "K5+197.5",IDC_STATIC,55,91,32,8
+    PUSHBUTTON      "麦克风已关闭",IDC_BUTTON_TEST,93,7,50,26
+    CONTROL         "GF-01",IDC_CHECK1,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,55,74,34,10
+    CONTROL         "GF-02",IDC_CHECK2,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,95,74,34,10
+    CTEXT           "K5+247.5",IDC_STATIC,95,91,32,8
+    CONTROL         "GF-03",IDC_CHECK3,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,135,74,34,10
+    CTEXT           "K5+296.5",IDC_STATIC,135,91,32,8
+    CONTROL         "GF-04",IDC_CHECK4,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,175,74,34,10
+    CTEXT           "K5+347.5",IDC_STATIC,175,91,32,8
+    CONTROL         "GF-05",IDC_CHECK5,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,215,74,34,10
+    CTEXT           "K5+397.5",IDC_STATIC,215,91,32,8
+    CONTROL         "GF-06",IDC_CHECK6,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,255,74,34,10
+    CTEXT           "K5+447.5",IDC_STATIC,255,91,32,8
+    CONTROL         "GF-07",IDC_CHECK7,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,295,74,34,10
+    CTEXT           "K5+497.5",IDC_STATIC,295,91,32,8
+    CONTROL         "GF-08",IDC_CHECK8,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,335,74,34,10
+    CTEXT           "K5+547.5",IDC_STATIC,335,91,32,8
+    CONTROL         "GF-09",IDC_CHECK9,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,375,74,34,10
+    CTEXT           "K5+597.5",IDC_STATIC,375,91,32,8
+    CONTROL         "GF-10",IDC_CHECK10,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,415,74,34,10
+    CTEXT           "K5+647.5",IDC_STATIC,415,91,32,8
+    CONTROL         "GF-11",IDC_CHECK11,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,455,74,34,10
+    CTEXT           "K5+697.5",IDC_STATIC,455,91,32,8
+    CONTROL         "GF-12",IDC_CHECK12,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,495,74,34,10
+    CTEXT           "K5+747.5",IDC_STATIC,495,91,32,8
+    CONTROL         "GF-13",IDC_CHECK13,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,535,74,34,10
+    CTEXT           "K5+797.5",IDC_STATIC,535,91,32,8
+    CONTROL         "GF-14",IDC_CHECK14,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,575,74,34,10
+    CTEXT           "K5+847.5",IDC_STATIC,575,91,32,8
+    CONTROL         "GF-15",IDC_CHECK15,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,615,74,34,10
+    CTEXT           "K5+897.5",IDC_STATIC,615,91,32,8
+    CONTROL         129,IDC_STATIC,"Static",SS_BITMAP | SS_REALSIZEIMAGE | NOT WS_VISIBLE,7,7,27,27
+    CONTROL         131,IDC_STATIC,"Static",SS_BITMAP | NOT WS_VISIBLE,52,7,27,27,WS_EX_TRANSPARENT
+    CONTROL         "全选",IDC_CHECK_ALL,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,163,15,34,10
+    CONTROL         "单选时打开相邻的功放",IDC_CHECK_SELECT_NEAR,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,203,15,84,10
+    CTEXT           "断开",IDC_STATIC1,55,106,32,8
+    CTEXT           "断开",IDC_STATIC2,95,106,32,8
+    CTEXT           "断开",IDC_STATIC3,135,106,32,8
+    CTEXT           "断开",IDC_STATIC4,175,106,32,8
+    CTEXT           "断开",IDC_STATIC5,215,106,32,8
+    CTEXT           "断开",IDC_STATIC6,255,106,32,8
+    CTEXT           "断开",IDC_STATIC7,295,106,32,8
+    CTEXT           "断开",IDC_STATIC8,335,106,32,8
+    CTEXT           "断开",IDC_STATIC9,375,106,32,8
+    CTEXT           "断开",IDC_STATIC10,415,106,32,8
+    CTEXT           "断开",IDC_STATIC11,455,106,32,8
+    CTEXT           "断开",IDC_STATIC12,495,106,32,8
+    CTEXT           "断开",IDC_STATIC13,535,106,32,8
+    CTEXT           "断开",IDC_STATIC14,575,106,32,8
+    CTEXT           "断开",IDC_STATIC15,615,106,32,8
+    CTEXT           "设备名称",IDC_STATIC16,14,74,32,8
+    CTEXT           "安装位置",IDC_STATIC17,14,91,32,8
+    CTEXT           "网络状态",IDC_STATIC18,14,106,32,8
+    PUSHBUTTON      "打开",IDC_BUTTON_OPEN1,7,145,38,14
+    EDITTEXT        IDC_EDIT_FILE1,51,146,106,14,ES_AUTOHSCROLL
+    GROUPBOX        "播放列表1",IDC_STATIC_LIST1,7,126,162,152
+    CONTROL         "循环播放",IDC_RADIO_LIST1,"Button",BS_AUTORADIOBUTTON,15,134,43,10
+    PUSHBUTTON      "打开",IDC_BUTTON_OPEN2,7,162,38,14
+    PUSHBUTTON      "打开",IDC_BUTTON_OPEN3,7,178,38,14
+    PUSHBUTTON      "打开",IDC_BUTTON_OPEN4,7,195,38,14
+    PUSHBUTTON      "打开",IDC_BUTTON_OPEN5,7,210,38,14
+    PUSHBUTTON      "打开",IDC_BUTTON_OPEN6,7,226,38,14
+    PUSHBUTTON      "打开",IDC_BUTTON_OPEN7,7,240,38,14
+    PUSHBUTTON      "打开",IDC_BUTTON_OPEN8,7,261,38,14
+    EDITTEXT        IDC_EDIT_FILE2,51,160,105,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT_FILE3,52,177,105,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT_FILE4,51,196,101,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT_FILE5,51,213,99,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT_FILE6,51,227,101,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT_FILE7,51,243,104,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT_FILE8,50,261,103,14,ES_AUTOHSCROLL
+    CONTROL         "循环播放",IDC_CHECK_CYCLE_PLAY1,"Button",BS_AUTOCHECKBOX | NOT WS_VISIBLE | WS_TABSTOP,59,135,43,10
+    PUSHBUTTON      "打开",IDC_BUTTON_OPEN9,185,145,38,14
+    EDITTEXT        IDC_EDIT_FILE9,229,146,106,14,ES_AUTOHSCROLL
+    GROUPBOX        "播放列表2",IDC_STATIC_LIST2,185,126,162,152
+    CONTROL         "循环播放",IDC_RADIO_LIST2,"Button",BS_AUTORADIOBUTTON,193,134,43,10
+    PUSHBUTTON      "打开",IDC_BUTTON_OPEN10,185,162,38,14
+    PUSHBUTTON      "打开",IDC_BUTTON_OPEN11,185,178,38,14
+    PUSHBUTTON      "打开",IDC_BUTTON_OPEN12,185,195,38,14
+    PUSHBUTTON      "打开",IDC_BUTTON_OPEN13,185,210,38,14
+    PUSHBUTTON      "打开",IDC_BUTTON_OPEN14,185,226,38,14
+    PUSHBUTTON      "打开",IDC_BUTTON_OPEN15,185,240,38,14
+    PUSHBUTTON      "打开",IDC_BUTTON_OPEN16,185,261,38,14
+    EDITTEXT        IDC_EDIT_FILE10,229,160,105,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT_FILE11,230,177,105,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT_FILE12,229,196,101,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT_FILE13,229,213,99,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT_FILE14,229,227,101,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT_FILE15,229,243,104,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT_FILE16,229,261,103,14,ES_AUTOHSCROLL
+    CONTROL         "循环播放",IDC_CHECK_CYCLE_PLAY2,"Button",BS_AUTOCHECKBOX | NOT WS_VISIBLE | WS_TABSTOP,237,135,43,10
+    PUSHBUTTON      "打开",IDC_BUTTON_OPEN17,406,146,38,14
+    EDITTEXT        IDC_EDIT_FILE17,450,147,106,14,ES_AUTOHSCROLL
+    GROUPBOX        "播放列表3",IDC_STATIC_LIST3,406,127,162,152
+    CONTROL         "循环播放",IDC_RADIO_LIST3,"Button",BS_AUTORADIOBUTTON,414,135,43,10
+    PUSHBUTTON      "打开",IDC_BUTTON_OPEN18,406,163,38,14
+    PUSHBUTTON      "打开",IDC_BUTTON_OPEN19,406,179,38,14
+    PUSHBUTTON      "打开",IDC_BUTTON_OPEN20,406,195,38,14
+    PUSHBUTTON      "打开",IDC_BUTTON_OPEN21,406,211,38,14
+    PUSHBUTTON      "打开",IDC_BUTTON_OPEN22,406,227,38,14
+    PUSHBUTTON      "打开",IDC_BUTTON_OPEN23,406,241,38,14
+    PUSHBUTTON      "打开",IDC_BUTTON_OPEN24,406,262,38,14
+    EDITTEXT        IDC_EDIT_FILE18,450,161,105,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT_FILE19,451,178,105,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT_FILE20,450,197,101,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT_FILE21,450,214,99,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT_FILE22,450,227,101,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT_FILE23,450,243,104,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT_FILE24,450,262,103,14,ES_AUTOHSCROLL
+    CONTROL         "循环播放",IDC_CHECK_CYCLE_PLAY3,"Button",BS_AUTOCHECKBOX | NOT WS_VISIBLE | WS_TABSTOP,458,135,43,10
+    CONTROL         "播放文件",IDC_CHECK_PLAY_FILE,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,296,15,41,10
+    CONTROL         "",IDC_SLIDER1,"msctls_trackbar32",TBS_BOTH | TBS_NOTICKS | WS_TABSTOP,352,14,100,15
+    CTEXT           "音量:50",IDC_STATIC19,455,17,32,8
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,1
+ PRODUCTVERSION 1,0,0,1
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "080403a8"
+        BEGIN
+            VALUE "CompanyName", "TODO: <公司名>"
+            VALUE "FileDescription", "TODO: <文件说明>"
+            VALUE "FileVersion", "1.0.0.1"
+            VALUE "InternalName", "CCT.exe"
+            VALUE "LegalCopyright", "TODO: (C) <公司名>。保留所有权利。"
+            VALUE "OriginalFilename", "CCT.exe"
+            VALUE "ProductName", "TODO: <产品名>"
+            VALUE "ProductVersion", "1.0.0.1"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x804, 936
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO 
+BEGIN
+    IDD_ABOUTBOX, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 163
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 55
+    END
+
+    IDD_CCT_DIALOG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 652
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 286
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDB_BITMAP1             BITMAP                  "res\\bitmap1.bmp"
+IDB_BITMAP_L            BITMAP                  "res\\bitmap2.bmp"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE 
+BEGIN
+    IDS_ABOUTBOX            "关于 CCT(&A)..."
+    IDP_SOCKETS_INIT_FAILED "Windows 套接字初始化失败。"
+END
+
+#endif    // 中文(中华人民共和国) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+#define _AFX_NO_SPLITTER_RESOURCES
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+LANGUAGE 4, 2
+#pragma code_page(936)
+#include "res\CCT.rc2"  // 非 Microsoft Visual C++ 编辑的资源
+#include "l.CHS\afxres.rc"      // 标准组件
+#endif
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

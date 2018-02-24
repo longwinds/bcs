@@ -1,0 +1,89 @@
+2017-11-02 14:57:50.492 [13996] LOG_ALARM -----------------  log4z thread started!   ---------------------------- log4z.cpp:1924
+2017-11-02 14:57:50.502 [13996] LOG_ALARM logger id=0 key=Main name=Main path=./log/ level=0 display=true log4z.cpp:1934
+2017-11-02 14:57:50.502 [10236] LOG_TRACE stream input *** LOGT LOGT LOGT LOGT ***  cctdlg.cpp:80
+2017-11-02 14:57:50.503 [10236] LOG_DEBUG stream input *** LOGD LOGD LOGD LOGD ***  cctdlg.cpp:81
+2017-11-02 14:57:50.503 [10236] LOG_INFO stream input *** LOGI LOGI LOGI LOGI ***  cctdlg.cpp:82
+2017-11-02 14:57:50.503 [10236] LOG_WARN stream input *** LOGW LOGW LOGW LOGW ***  cctdlg.cpp:83
+2017-11-02 14:57:50.503 [10236] LOG_ERROR stream input *** LOGE LOGE LOGE LOGE ***  cctdlg.cpp:84
+2017-11-02 14:57:50.503 [10236] LOG_ALARM stream input *** LOGA LOGA LOGA LOGA ***  cctdlg.cpp:85
+2017-11-02 14:57:50.503 [10236] LOG_FATAL stream input *** LOGF LOGF LOGF LOGF ***  cctdlg.cpp:86
+2017-11-02 14:57:50.503 [10236] LOG_TRACE format input *** LOGFMTT *** 123456 *** cctdlg.cpp:87
+2017-11-02 14:57:50.503 [10236] LOG_DEBUG format input *** LOGFMTD *** 123456 *** cctdlg.cpp:88
+2017-11-02 14:57:50.503 [10236] LOG_INFO format input *** LOGFMTI *** 123456 *** cctdlg.cpp:89
+2017-11-02 14:57:50.503 [10236] LOG_WARN format input *** LOGFMTW *** 123456 *** cctdlg.cpp:90
+2017-11-02 14:57:50.503 [10236] LOG_ERROR format input *** LOGFMTE *** 123456 *** cctdlg.cpp:91
+2017-11-02 14:57:50.503 [10236] LOG_ALARM format input *** LOGFMTA *** 123456 *** cctdlg.cpp:92
+2017-11-02 14:57:50.503 [10236] LOG_FATAL format input *** LOGFMTF *** 123456 *** cctdlg.cpp:93
+2017-11-02 14:57:50.503 [10236] LOG_ALARM main quit ... cctdlg.cpp:95
+2017-11-02 14:57:50.608 [10236] LOG_TRACE CCCTDlg::udp_client_init cctdlg.cpp:611
+2017-11-02 14:57:50.609 [13064] LOG_TRACE call_dev_mon_thread 
+ devmon.cpp:6
+2017-11-02 14:57:50.609 [13064] LOG_TRACE CDevMon::dev_mon_thread start
+ devmon.cpp:29
+2017-11-02 14:57:50.731 [10236] LOG_TRACE m_s32_volume=50 cctdlg.cpp:1177
+2017-11-02 14:58:03.335 [10236] LOG_TRACE CCCTDlg::stopRecord cctdlg.cpp:583
+2017-11-02 14:58:03.376 [10236] LOG_INFO wav in close err:5 cctdlg.cpp:593
+2017-11-02 14:58:13.706 [10424] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-02 14:58:15.561 [10424] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-02 14:58:18.652 [13348] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-02 14:58:20.361 [13348] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-02 14:58:23.727 [8284] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-02 14:58:33.634 [8284] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-02 14:58:33.746 [10604] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-02 14:58:33.998 [10604] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-02 14:58:34.063 [8056] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-02 14:58:34.321 [8056] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-02 14:58:39.078 [2180] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-02 14:58:40.379 [2180] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-02 14:58:44.140 [13636] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-02 14:58:45.744 [13636] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-02 14:58:49.095 [5868] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-02 14:58:50.095 [5868] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-02 14:58:54.142 [14432] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-02 14:58:54.142 [14432] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-02 14:58:59.148 [10580] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-02 14:58:59.148 [10580] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-02 14:59:04.153 [12444] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-02 14:59:04.153 [12444] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-02 14:59:09.155 [8084] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-02 14:59:09.155 [8084] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-02 14:59:14.158 [12444] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-02 14:59:14.158 [12444] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-02 14:59:19.161 [12444] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-02 14:59:19.161 [12444] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-02 14:59:24.164 [8084] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-02 14:59:24.164 [8084] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-02 14:59:52.641 [2612] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-02 15:00:04.793 [2612] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-02 15:00:07.154 [9324] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-02 15:00:09.206 [9324] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-02 15:00:11.289 [8736] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-02 15:00:17.151 [8736] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-02 15:00:17.676 [12132] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-02 15:00:17.977 [12132] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-02 15:00:18.289 [11400] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-02 15:00:19.846 [11400] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-02 15:00:19.858 [14560] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-02 15:00:19.858 [14560] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-02 15:00:23.862 [12800] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-02 15:00:23.862 [12800] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-02 15:00:28.866 [9976] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-02 15:00:28.866 [9976] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-02 15:00:33.869 [9976] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-02 15:00:33.869 [9976] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-02 15:00:38.872 [12800] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-02 15:00:38.872 [12800] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-02 15:00:43.874 [12800] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-02 15:00:43.874 [12800] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-02 15:00:48.879 [12800] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-02 15:00:48.879 [12800] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-02 15:00:53.881 [9976] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-02 15:00:53.881 [9976] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-02 15:00:58.884 [9976] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-02 15:00:58.884 [9976] LOG_TRACE play file change to  2 cctdlg.cpp:1038
+2017-11-02 15:01:03.892 [9976] LOG_TRACE file[2] play stop cctdlg.cpp:1029
+2017-11-02 15:01:03.892 [9976] LOG_TRACE play file change to  0 cctdlg.cpp:1038
+2017-11-02 15:01:08.898 [12800] LOG_TRACE file[0] play stop cctdlg.cpp:1029
+2017-11-02 15:01:08.898 [12800] LOG_TRACE play file change to  1 cctdlg.cpp:1038
+2017-11-02 15:01:13.901 [2744] LOG_TRACE file[1] play stop cctdlg.cpp:1029
+2017-11-02 15:01:13.901 [2744] LOG_TRACE play file change to  2 cctdlg.cpp:1038

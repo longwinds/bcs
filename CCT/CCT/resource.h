@@ -1,0 +1,119 @@
+//{{NO_DEPENDENCIES}}
+// Microsoft Visual C++ generated include file.
+// Used by CCT.rc
+//
+#define IDM_ABOUTBOX                    0x0010
+#define IDD_ABOUTBOX                    100
+#define IDS_ABOUTBOX                    101
+#define IDD_CCT_DIALOG                  102
+#define IDP_SOCKETS_INIT_FAILED         103
+#define IDR_MAINFRAME                   128
+#define IDB_BITMAP1                     129
+#define IDB_BITMAP_L                    131
+#define IDC_BUTTON_TEST                 1001
+#define IDC_CHECK1                      1003
+#define IDC_CHECK2                      1004
+#define IDC_CHECK_CYCLE_PLAY1           1005
+#define IDC_STATIC1                     1006
+#define IDC_CHECK3                      1007
+#define IDC_CHECK4                      1008
+#define IDC_CHECK5                      1009
+#define IDC_CHECK6                      1010
+#define IDC_CHECK7                      1011
+#define IDC_CHECK8                      1012
+#define IDC_CHECK9                      1013
+#define IDC_CHECK10                     1014
+#define IDC_CHECK11                     1015
+#define IDC_CHECK12                     1016
+#define IDC_CHECK13                     1017
+#define IDC_CHECK14                     1018
+#define IDC_CHECK15                     1019
+#define IDC_STATIC2                     1020
+#define IDC_STATIC3                     1021
+#define IDC_CHECK_ALL                   1022
+#define IDC_CHECK_SELECT_NEAR           1023
+#define IDC_STATIC4                     1024
+#define IDC_STATIC5                     1025
+#define IDC_STATIC6                     1026
+#define IDC_STATIC7                     1027
+#define IDC_STATIC8                     1028
+#define IDC_STATIC9                     1029
+#define IDC_STATIC10                    1030
+#define IDC_STATIC11                    1031
+#define IDC_STATIC12                    1032
+#define IDC_STATIC13                    1033
+#define IDC_STATIC14                    1034
+#define IDC_STATIC15                    1035
+#define IDC_STATIC16                    1036
+#define IDC_STATIC17                    1037
+#define IDC_STATIC18                    1038
+#define IDC_BUTTON_OPEN1                1039
+#define IDC_EDIT_FILE1                  1040
+#define IDC_RADIO_LIST1                 1041
+#define IDC_STATIC_LIST1                1042
+#define IDC_BUTTON_OPEN9                1043
+#define IDC_EDIT_FILE9                  1044
+#define IDC_BUTTON_OPEN2                1045
+#define IDC_BUTTON_OPEN3                1046
+#define IDC_BUTTON_OPEN4                1047
+#define IDC_BUTTON_OPEN5                1048
+#define IDC_BUTTON_OPEN6                1049
+#define IDC_BUTTON_OPEN7                1050
+#define IDC_BUTTON_OPEN8                1051
+#define IDC_EDIT_FILE2                  1052
+#define IDC_EDIT_FILE3                  1053
+#define IDC_EDIT_FILE4                  1054
+#define IDC_EDIT_FILE5                  1055
+#define IDC_EDIT_FILE6                  1056
+#define IDC_EDIT_FILE7                  1057
+#define IDC_EDIT_FILE8                  1058
+#define IDC_STATIC_LIST2                1059
+#define IDC_RADIO_LIST2                 1060
+#define IDC_BUTTON_OPEN10               1061
+#define IDC_BUTTON_OPEN11               1062
+#define IDC_BUTTON_OPEN12               1063
+#define IDC_BUTTON_OPEN13               1064
+#define IDC_BUTTON_OPEN14               1065
+#define IDC_BUTTON_OPEN15               1066
+#define IDC_BUTTON_OPEN16               1067
+#define IDC_EDIT_FILE10                 1068
+#define IDC_EDIT_FILE11                 1069
+#define IDC_EDIT_FILE12                 1070
+#define IDC_EDIT_FILE13                 1071
+#define IDC_EDIT_FILE14                 1072
+#define IDC_EDIT_FILE15                 1073
+#define IDC_EDIT_FILE16                 1074
+#define IDC_CHECK_CYCLE_PLAY2           1075
+#define IDC_BUTTON_OPEN17               1076
+#define IDC_EDIT_FILE17                 1077
+#define IDC_STATIC_LIST3                1078
+#define IDC_RADIO_LIST3                 1079
+#define IDC_BUTTON_OPEN18               1080
+#define IDC_BUTTON_OPEN19               1081
+#define IDC_BUTTON_OPEN20               1082
+#define IDC_BUTTON_OPEN21               1083
+#define IDC_BUTTON_OPEN22               1084
+#define IDC_BUTTON_OPEN23               1085
+#define IDC_BUTTON_OPEN24               1086
+#define IDC_EDIT_FILE18                 1087
+#define IDC_EDIT_FILE19                 1088
+#define IDC_EDIT_FILE20                 1089
+#define IDC_EDIT_FILE21                 1090
+#define IDC_EDIT_FILE22                 1091
+#define IDC_EDIT_FILE23                 1092
+#define IDC_EDIT_FILE24                 1093
+#define IDC_CHECK_CYCLE_PLAY3           1094
+#define IDC_CHECK_PLAY_FILE             1095
+#define IDC_SLIDER1                     1096
+#define IDC_STATIC19                    1097
+
+// Next default values for new objects
+// 
+#ifdef APSTUDIO_INVOKED
+#ifndef APSTUDIO_READONLY_SYMBOLS
+#define _APS_NEXT_RESOURCE_VALUE        132
+#define _APS_NEXT_COMMAND_VALUE         32771
+#define _APS_NEXT_CONTROL_VALUE         1097
+#define _APS_NEXT_SYMED_VALUE           101
+#endif
+#endif
